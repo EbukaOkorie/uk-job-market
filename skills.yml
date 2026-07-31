@@ -1,0 +1,5 @@
+languages: [python, sql, java, javascript, typescript, scala, "c#"]
+bi: [power bi, tableau, looker, qlik, microsoft excel]
+warehouse: [snowflake, databricks, bigquery, redshift, postgresql, dbt]
+cloud: [azure, aws, gcp, kubernetes, docker, terraform]
+analytics: [machine learning, data engineering, etl, airflow, apache spark, spss]
