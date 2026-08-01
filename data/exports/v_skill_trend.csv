@@ -1,31 +1,30 @@
 collected_on,term,skill_group,live_count,new_count,live_change,new_share_pct
 2026-07-31,airflow,analytics,632,32,,0.55
-2026-07-31,apache spark,analytics,136,9,,0.16
-2026-07-31,aws,cloud,8078,513,,8.85
-2026-07-31,azure,cloud,8386,740,,12.76
+2026-07-31,aws,cloud,8078,513,,8.86
+2026-07-31,azure,cloud,8386,740,,12.78
 2026-07-31,bigquery,warehouse,431,21,,0.36
 2026-07-31,c#,languages,2458,211,,3.64
-2026-07-31,data engineering,analytics,2723,199,,3.43
+2026-07-31,data engineering,analytics,2723,199,,3.44
 2026-07-31,databricks,warehouse,1205,88,,1.52
 2026-07-31,dbt,warehouse,616,33,,0.57
 2026-07-31,docker,cloud,2760,211,,3.64
-2026-07-31,etl,analytics,1328,104,,1.79
+2026-07-31,etl,analytics,1328,104,,1.80
 2026-07-31,gcp,cloud,3056,176,,3.04
 2026-07-31,java,languages,3967,233,,4.02
-2026-07-31,javascript,languages,2902,273,,4.71
-2026-07-31,kubernetes,cloud,3513,221,,3.81
+2026-07-31,javascript,languages,2902,273,,4.72
+2026-07-31,kubernetes,cloud,3513,221,,3.82
 2026-07-31,looker,bi,741,33,,0.57
-2026-07-31,machine learning,analytics,4229,166,,2.86
-2026-07-31,microsoft excel,bi,5091,372,,6.41
+2026-07-31,machine learning,analytics,4229,166,,2.87
+2026-07-31,microsoft excel,bi,5091,372,,6.42
 2026-07-31,postgresql,warehouse,1033,91,,1.57
 2026-07-31,power bi,bi,3680,332,,5.73
-2026-07-31,python,languages,11277,630,,10.86
+2026-07-31,python,languages,11277,630,,10.88
 2026-07-31,qlik,bi,118,5,,0.09
 2026-07-31,redshift,warehouse,228,11,,0.19
 2026-07-31,scala,languages,317,19,,0.33
 2026-07-31,snowflake,warehouse,1202,87,,1.50
 2026-07-31,spss,analytics,55,3,,0.05
-2026-07-31,sql,languages,7995,589,,10.16
+2026-07-31,sql,languages,7995,589,,10.17
 2026-07-31,tableau,bi,1494,72,,1.24
 2026-07-31,terraform,cloud,2712,194,,3.35
 2026-07-31,typescript,languages,2265,131,,2.26

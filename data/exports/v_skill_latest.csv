@@ -26,6 +26,5 @@ dbt,warehouse,616,33,24,22
 bigquery,warehouse,431,21,25,25
 scala,languages,317,19,26,26
 redshift,warehouse,228,11,27,27
-apache spark,analytics,136,9,28,28
-qlik,bi,118,5,29,29
-spss,analytics,55,3,30,30
+qlik,bi,118,5,28,28
+spss,analytics,55,3,29,29

@@ -1,12 +1,5 @@
 region,n,p25,median,p75
-East Midlands,5,45000,47500,47500
-Eastern England,9,35000,35000,60000
 London,64,46500,80500,100000
-North East England,9,32500,49400,80000
 North West England,27,36125,45000,78750
-Northern Ireland,11,40000,65000,90000
-Scotland,9,38750,45000,46100
 South East England,18,45000,56250,77500
-South West England,10,40750,45000,61250
-West Midlands,14,43125,60000,81250
 Yorkshire And The Humber,15,31250,40000,55000
