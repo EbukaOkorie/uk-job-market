@@ -1,57 +1,57 @@
 {
-  "collected_at": "2026-08-01T08:14:03.385953+00:00",
+  "collected_at": "2026-08-01T17:32:00.911647+00:00",
   "api_calls": 70,
   "source": "Adzuna API",
   "skills": [
     {
       "term": "python",
-      "live_count": 11379,
-      "new_count": 571
+      "live_count": 11585,
+      "new_count": 793
     },
     {
       "term": "sql",
-      "live_count": 8114,
-      "new_count": 473
+      "live_count": 8258,
+      "new_count": 643
     },
     {
       "term": "java",
-      "live_count": 3997,
-      "new_count": 187
+      "live_count": 4058,
+      "new_count": 262
     },
     {
       "term": "javascript",
-      "live_count": 2969,
-      "new_count": 176
+      "live_count": 3003,
+      "new_count": 224
     },
     {
       "term": "typescript",
-      "live_count": 2308,
-      "new_count": 107
+      "live_count": 2351,
+      "new_count": 155
     },
     {
       "term": "scala",
-      "live_count": 323,
-      "new_count": 30
+      "live_count": 328,
+      "new_count": 38
     },
     {
       "term": "c#",
-      "live_count": 2502,
-      "new_count": 150
+      "live_count": 2537,
+      "new_count": 189
     },
     {
       "term": "power bi",
-      "live_count": 3743,
-      "new_count": 322
+      "live_count": 3794,
+      "new_count": 395
     },
     {
       "term": "tableau",
-      "live_count": 1487,
-      "new_count": 81
+      "live_count": 1513,
+      "new_count": 113
     },
     {
       "term": "looker",
-      "live_count": 736,
-      "new_count": 29
+      "live_count": 753,
+      "new_count": 45
     },
     {
       "term": "qlik",
@@ -60,98 +60,98 @@
     },
     {
       "term": "microsoft excel",
-      "live_count": 5153,
-      "new_count": 495
+      "live_count": 5175,
+      "new_count": 553
     },
     {
       "term": "snowflake",
-      "live_count": 1215,
-      "new_count": 69
+      "live_count": 1248,
+      "new_count": 104
     },
     {
       "term": "databricks",
-      "live_count": 1216,
-      "new_count": 72
+      "live_count": 1253,
+      "new_count": 106
     },
     {
       "term": "bigquery",
-      "live_count": 425,
-      "new_count": 18
+      "live_count": 430,
+      "new_count": 24
     },
     {
       "term": "redshift",
-      "live_count": 223,
-      "new_count": 5
+      "live_count": 230,
+      "new_count": 10
     },
     {
       "term": "postgresql",
-      "live_count": 1032,
-      "new_count": 44
+      "live_count": 1050,
+      "new_count": 64
     },
     {
       "term": "dbt",
-      "live_count": 620,
-      "new_count": 27
+      "live_count": 639,
+      "new_count": 45
     },
     {
       "term": "azure",
-      "live_count": 8461,
-      "new_count": 521
+      "live_count": 8609,
+      "new_count": 683
     },
     {
       "term": "aws",
-      "live_count": 8098,
-      "new_count": 405
+      "live_count": 8245,
+      "new_count": 554
     },
     {
       "term": "gcp",
-      "live_count": 3059,
-      "new_count": 156
+      "live_count": 3124,
+      "new_count": 217
     },
     {
       "term": "kubernetes",
-      "live_count": 3511,
-      "new_count": 163
+      "live_count": 3566,
+      "new_count": 222
     },
     {
       "term": "docker",
-      "live_count": 2754,
-      "new_count": 134
+      "live_count": 2792,
+      "new_count": 182
     },
     {
       "term": "terraform",
-      "live_count": 2731,
-      "new_count": 153
+      "live_count": 2775,
+      "new_count": 199
     },
     {
       "term": "machine learning",
-      "live_count": 4262,
-      "new_count": 187
+      "live_count": 4348,
+      "new_count": 268
     },
     {
       "term": "data engineering",
-      "live_count": 2729,
-      "new_count": 147
+      "live_count": 2794,
+      "new_count": 208
     },
     {
       "term": "etl",
-      "live_count": 1350,
-      "new_count": 83
+      "live_count": 1381,
+      "new_count": 120
     },
     {
       "term": "airflow",
-      "live_count": 713,
-      "new_count": 55
+      "live_count": 725,
+      "new_count": 78
     },
     {
       "term": "apache spark",
-      "live_count": 133,
+      "live_count": 132,
       "new_count": 6
     },
     {
       "term": "spss",
-      "live_count": 57,
-      "new_count": 7
+      "live_count": 59,
+      "new_count": 8
     }
   ]
 }
