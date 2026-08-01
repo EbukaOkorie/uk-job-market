@@ -1,30 +1,59 @@
 collected_on,term,skill_group,live_count,new_count,live_change,new_share_pct
-2026-07-31,airflow,analytics,632,32,,0.55
-2026-07-31,aws,cloud,8078,513,,8.86
-2026-07-31,azure,cloud,8386,740,,12.78
-2026-07-31,bigquery,warehouse,431,21,,0.36
-2026-07-31,c#,languages,2458,211,,3.64
-2026-07-31,data engineering,analytics,2723,199,,3.44
-2026-07-31,databricks,warehouse,1205,88,,1.52
-2026-07-31,dbt,warehouse,616,33,,0.57
-2026-07-31,docker,cloud,2760,211,,3.64
-2026-07-31,etl,analytics,1328,104,,1.80
-2026-07-31,gcp,cloud,3056,176,,3.04
-2026-07-31,java,languages,3967,233,,4.02
-2026-07-31,javascript,languages,2902,273,,4.72
-2026-07-31,kubernetes,cloud,3513,221,,3.82
-2026-07-31,looker,bi,741,33,,0.57
-2026-07-31,machine learning,analytics,4229,166,,2.87
-2026-07-31,microsoft excel,bi,5091,372,,6.42
-2026-07-31,postgresql,warehouse,1033,91,,1.57
-2026-07-31,power bi,bi,3680,332,,5.73
-2026-07-31,python,languages,11277,630,,10.88
-2026-07-31,qlik,bi,118,5,,0.09
-2026-07-31,redshift,warehouse,228,11,,0.19
-2026-07-31,scala,languages,317,19,,0.33
-2026-07-31,snowflake,warehouse,1202,87,,1.50
-2026-07-31,spss,analytics,55,3,,0.05
-2026-07-31,sql,languages,7995,589,,10.17
-2026-07-31,tableau,bi,1494,72,,1.24
-2026-07-31,terraform,cloud,2712,194,,3.35
-2026-07-31,typescript,languages,2265,131,,2.26
+2026-07-31,airflow,analytics,642,41,,0.54
+2026-07-31,aws,cloud,8157,664,,8.79
+2026-07-31,azure,cloud,8490,952,,12.60
+2026-07-31,bigquery,warehouse,429,24,,0.32
+2026-07-31,c#,languages,2512,289,,3.83
+2026-07-31,data engineering,analytics,2735,238,,3.15
+2026-07-31,databricks,warehouse,1211,100,,1.32
+2026-07-31,dbt,warehouse,625,43,,0.57
+2026-07-31,docker,cloud,2793,270,,3.57
+2026-07-31,etl,analytics,1350,139,,1.84
+2026-07-31,gcp,cloud,3085,224,,2.97
+2026-07-31,java,languages,4026,318,,4.21
+2026-07-31,javascript,languages,2947,346,,4.58
+2026-07-31,kubernetes,cloud,3563,296,,3.92
+2026-07-31,looker,bi,740,39,,0.52
+2026-07-31,machine learning,analytics,4241,208,,2.75
+2026-07-31,microsoft excel,bi,5155,563,,7.45
+2026-07-31,postgresql,warehouse,1038,104,,1.38
+2026-07-31,power bi,bi,3714,454,,6.01
+2026-07-31,python,languages,11360,823,,10.90
+2026-07-31,qlik,bi,119,7,,0.09
+2026-07-31,redshift,warehouse,228,13,,0.17
+2026-07-31,scala,languages,326,32,,0.42
+2026-07-31,snowflake,warehouse,1215,108,,1.43
+2026-07-31,spss,analytics,58,7,,0.09
+2026-07-31,sql,languages,8082,759,,10.05
+2026-07-31,tableau,bi,1493,81,,1.07
+2026-07-31,terraform,cloud,2753,252,,3.34
+2026-07-31,typescript,languages,2278,159,,2.11
+2026-08-01,looker,bi,738,46,-2,0.69
+2026-08-01,airflow,analytics,717,76,75,1.15
+2026-08-01,sql,languages,8158,659,76,9.95
+2026-08-01,aws,cloud,8109,559,-48,8.44
+2026-08-01,machine learning,analytics,4292,276,51,4.17
+2026-08-01,azure,cloud,8489,683,-1,10.31
+2026-08-01,scala,languages,324,39,-2,0.59
+2026-08-01,bigquery,warehouse,414,25,-15,0.38
+2026-08-01,microsoft excel,bi,5119,546,-36,8.24
+2026-08-01,c#,languages,2501,189,-11,2.85
+2026-08-01,terraform,cloud,2722,199,-31,3.00
+2026-08-01,data engineering,analytics,2747,210,12,3.17
+2026-08-01,postgresql,warehouse,1034,63,-4,0.95
+2026-08-01,databricks,warehouse,1226,106,15,1.60
+2026-08-01,snowflake,warehouse,1227,107,12,1.61
+2026-08-01,dbt,warehouse,629,45,4,0.68
+2026-08-01,power bi,bi,3735,398,21,6.01
+2026-08-01,docker,cloud,2760,188,-33,2.84
+2026-08-01,tableau,bi,1489,114,-4,1.72
+2026-08-01,etl,analytics,1370,122,20,1.84
+2026-08-01,python,languages,11464,831,104,12.54
+2026-08-01,gcp,cloud,3069,214,-16,3.23
+2026-08-01,spss,analytics,59,9,1,0.14
+2026-08-01,java,languages,4003,281,-23,4.24
+2026-08-01,qlik,bi,117,9,-2,0.14
+2026-08-01,javascript,languages,2966,232,19,3.50
+2026-08-01,typescript,languages,2313,164,35,2.48
+2026-08-01,kubernetes,cloud,3505,225,-58,3.40
+2026-08-01,redshift,warehouse,229,11,1,0.17
