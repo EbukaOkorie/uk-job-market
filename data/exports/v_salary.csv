@@ -1,14 +1,77 @@
 id,title,company,category,contract_type,contract_time,region,created,first_seen,last_seen,salary_min,salary_max,salary_mid
+5821314442,Data Analyst,Goodlife Recruitment Solutions Ltd,it-jobs,permanent,full_time,North West England,2026-07-30 16:48:35+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
+5821183026,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,contract,,London,2026-07-30 15:11:54+00,2026-07-31,2026-07-31,111020,111020,111020.000000000000
+5821154185,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,contract,,London,2026-07-30 15:06:09+00,2026-07-31,2026-07-31,84500,111020,97760.000000000000
+5821153515,Senior Planning & Data Analyst,Morgan Law,it-jobs,permanent,full_time,London,2026-07-30 15:04:49+00,2026-07-31,2026-07-31,43000,50000,46500.000000000000
+5821152253,Commercial Financial Analyst,Ashley Kate HR & Finance,accounting-finance-jobs,,full_time,North West England,2026-07-30 15:03:40+00,2026-07-31,2026-07-31,37500,40000,38750.000000000000
+5821149515,"SQL/Data Analyst (T-SQL, Azure Data Factory, Fabric, SSIS, ERP)",TXP Technology x People,it-jobs,contract,,West Midlands,2026-07-30 15:00:59+00,2026-07-31,2026-07-31,91000,104000,97500.000000000000
+5821148678,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,permanent,,London,2026-07-30 14:59:34+00,2026-07-31,2026-07-31,111020,111020,111020.000000000000
+5821148656,Data Analyst Apprentice,Back TO Work,it-jobs,,full_time,North West England,2026-07-30 14:59:32+00,2026-07-31,2026-07-31,25800,25800,25800.000000000000
+5821148351,Data Performance Manager,Acis Group Ltd,it-jobs,permanent,full_time,East Midlands,2026-07-30 14:58:52+00,2026-07-31,2026-07-31,40000,45000,42500.000000000000
+5821148333,Senior Planning & Data Analyst,Morgan Law,it-jobs,permanent,full_time,London,2026-07-30 14:58:47+00,2026-07-31,2026-07-31,43000,50000,46500.000000000000
+5821148323,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,contract,,London,2026-07-30 14:58:44+00,2026-07-31,2026-07-31,84500,111020,97760.000000000000
+5821148304,Data Analyst and Technical Support Coordinator,OnetoOne Personnel,it-jobs,permanent,full_time,Eastern England,2026-07-30 14:58:39+00,2026-07-31,2026-07-31,37000,43000,40000.000000000000
+5821092171,"SQL/Data Analyst (T-SQL, Azure Data Factory, Fabric, SSIS, ERP)",TXP,it-jobs,contract,,West Midlands,2026-07-30 12:55:45+00,2026-07-31,2026-07-31,91000,104000,97500.000000000000
+5821005636,Data Analyst,Catalyst,it-jobs,permanent,full_time,Northern Ireland,2026-07-30 11:33:49+00,2026-07-31,2026-07-31,50000,80000,65000.000000000000
+5821005651,Data Analyst,NBI LLC,it-jobs,,full_time,West Midlands,2026-07-30 11:33:49+00,2026-07-31,2026-07-31,35000,50000,42500.000000000000
+5821005611,SQL Developer / Data Analyst,Beagle Aircraft,it-jobs,,full_time,South West England,2026-07-30 11:33:48+00,2026-07-31,2026-07-31,23000,63000,43000.000000000000
+5821005233,Data Analyst,VIQU IT,it-jobs,,full_time,Northern Ireland,2026-07-30 11:33:44+00,2026-07-31,2026-07-31,40000,50000,45000.000000000000
+5821005098,Data Analyst,JIYU People Ltd,it-jobs,,full_time,South West England,2026-07-30 11:33:42+00,2026-07-31,2026-07-31,40000,50000,45000.000000000000
+5821005129,Data Analyst / SQL Developer,Silcoms II Ltd,it-jobs,contract,full_time,North West England,2026-07-30 11:33:42+00,2026-07-31,2026-07-31,33000,43000,38000.000000000000
+5821004493,SC - Data Analyst,Velocity Talent,it-jobs,permanent,full_time,Yorkshire And The Humber,2026-07-30 11:33:36+00,2026-07-31,2026-07-31,75000,85000,80000.000000000000
+5821004492,Trainee Data Engineer,NEWTO TRAINING LIMITED,it-jobs,contract,,London,2026-07-30 11:33:36+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
+5821003808,Data Analyst Placement Programme,Data Jobs at ITOL Recruit,it-jobs,,full_time,West Midlands,2026-07-30 11:33:28+00,2026-07-31,2026-07-31,30000,45000,37500.000000000000
+5820807185,Customer Retention Strategist,Specsavers,it-jobs,permanent,full_time,South East England,2026-07-30 06:33:30+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
+5820802552,Customer Retention Strategist,Specsavers,it-jobs,permanent,full_time,East Midlands,2026-07-30 06:30:30+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
+5820801563,Customer Retention Strategist,Specsavers,it-jobs,permanent,full_time,Scotland,2026-07-30 06:29:30+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
+5820422952,Data Analyst,Euro Car Parks,it-jobs,permanent,full_time,London,2026-07-30 00:51:19+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5820419256,Data Analyst - Performance,Elevate Recruitment.,it-jobs,permanent,,London,2026-07-30 00:49:44+00,2026-07-31,2026-07-31,35000,35000,35000.000000000000
+5820418826,Data Analyst,Catalyst,it-jobs,permanent,full_time,North East England,2026-07-30 00:47:39+00,2026-07-31,2026-07-31,80000,80000,80000.000000000000
+5820418829,HR Data Analyst,Liberty Recruitment Group,it-jobs,,,South East England,2026-07-30 00:47:39+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
+5820418690,Full Stack Developer,Oscar Associates  Limited,it-jobs,,,East Midlands,2026-07-30 00:47:09+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
+5820418123,Senior AI Engineer,CarFinance 247,it-jobs,,,North West England,2026-07-30 00:44:56+00,2026-07-31,2026-07-31,80000,80000,80000.000000000000
+5820373355,Trainee Data Engineer Programme No Experience Required,NEWTO TRAINING LIMITED,it-jobs,permanent,,Yorkshire And The Humber,2026-07-29 23:08:08+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
 5820008422,Data Analyst,UCL Partners,it-jobs,contract,full_time,London,2026-07-29 18:08:37+00,2026-07-31,2026-07-31,40000,52000,46000.000000000000
 5819979704,Key Account Manager - Tesco Retail Media,Hackajob Ltd,sales-jobs,,,London,2026-07-29 16:50:40+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
 5819979127,Data Operations Manager,Vitality Corporate Services Limited,it-jobs,,full_time,London,2026-07-29 16:50:06+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5820342708,Data Analyst,Elevate Recruitment Limited,it-jobs,permanent,full_time,London,2026-07-29 22:56:18+00,2026-07-31,2026-07-31,30000,39000,34500.000000000000
+5820158303,Data Analyst,Catalyst,it-jobs,permanent,full_time,North East England,2026-07-29 20:55:12+00,2026-07-31,2026-07-31,50000,80000,65000.000000000000
+5820123922,Graduate Data Consultant,Jackson Hogg,graduate-jobs,permanent,full_time,Yorkshire And The Humber,2026-07-29 18:53:01+00,2026-07-31,2026-07-31,25000,30000,27500.000000000000
+5822545719,Head of Data & Analytics,Curtis Recruitment Limited,it-jobs,,full_time,Eastern England,2026-07-31 17:03:33+00,2026-07-31,2026-07-31,85000,115000,100000.000000000000
 5821880721,Data Solution Architect,Experis,it-jobs,contract,,London,2026-07-31 03:11:38+00,2026-07-31,2026-07-31,260000,390000,325000.000000000000
 5821880708,"Data Engineer (AWS) - 12-month FTC, Hybrid/London, Manchest",SmartSourcing PLC,it-jobs,contract,,North West England,2026-07-31 03:11:38+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
 5821876514,Data Tech Lead,Morson Edge,it-jobs,permanent,,North West England,2026-07-31 03:10:39+00,2026-07-31,2026-07-31,85000,85000,85000.000000000000
+5822400748,Principal Product Manager,Anson Mccade,it-jobs,permanent,,West Midlands,2026-07-31 15:14:11+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822391758,Senior Data Architect,Tenth Revolution Group,it-jobs,permanent,full_time,London,2026-07-31 15:01:28+00,2026-07-31,2026-07-31,85000,120000,102500.000000000000
+5822390407,Data Engineer,Third Nexus Group Limited,it-jobs,permanent,full_time,London,2026-07-31 14:59:56+00,2026-07-31,2026-07-31,75000,100000,87500.000000000000
+5822289778,Lead Data Scientist,Hackajob Ltd,it-jobs,,full_time,North West England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822289741,Python Developer,Tria,it-jobs,,full_time,West Midlands,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,45000,50000,47500.000000000000
+5822289733,Junior Data Engineer,Jackson Hogg Ltd,it-jobs,,full_time,North East England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,30000,35000,32500.000000000000
+5822289667,Senior Technical Product Manager,ST Selection,it-jobs,,full_time,West Midlands,2026-07-31 11:30:03+00,2026-07-31,2026-07-31,70000,75000,72500.000000000000
+5822289462,Azure Data DevOps Engineer,Assura Protect,it-jobs,,full_time,London,2026-07-31 11:29:49+00,2026-07-31,2026-07-31,60000,95669,77834.500000000000
+5822252503,Data Engineering Manager,Datatech Analytics,it-jobs,permanent,,London,2026-07-31 11:13:07+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822251766,Lead Product Manager,Anson Mccade,it-jobs,permanent,,West Midlands,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5822251771,Principal Product Manager,Anson Mccade,it-jobs,permanent,,Scotland,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822251800,Lead Product Manager,Anson Mccade,it-jobs,permanent,,North West England,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5822251764,Lead Product Manager,Anson Mccade,it-jobs,permanent,,South West England,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5822251768,Lead Product Manager,Anson Mccade,it-jobs,permanent,,North East England,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5822251740,Principal Product Manager,Anson Mccade,it-jobs,permanent,,South West England,2026-07-31 11:12:53+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822251398,Systems Engineering Lead - Spartan Data Workstream,Hackajob Ltd,engineering-jobs,permanent,,North West England,2026-07-31 11:12:48+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822251443,Lead Product Manager,Anson Mccade,it-jobs,permanent,,South West England,2026-07-31 11:12:48+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5822247058,Senior Product Data Scientist,Datatech Analytics,it-jobs,permanent,,South East England,2026-07-31 11:11:28+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822245955,Senior Manager of Data Science,WRK DIGITAL LTD,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 11:11:06+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822245733,Customer Sales Engineer,True Worth Consulting Ltd,it-jobs,permanent,full_time,North West England,2026-07-31 11:11:01+00,2026-07-31,2026-07-31,60000,60000,60000.000000000000
+5822245512,Senior AI Engineer,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 11:10:56+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822245460,Lead AI Engineer,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 11:10:55+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822244368,Portfolio Analyst,AWE Plc,it-jobs,permanent,,South East England,2026-07-31 11:10:34+00,2026-07-31,2026-07-31,55000,55000,55000.000000000000
+5822242787,Software Engineer - eDV,Henderson Scott,it-jobs,permanent,,South West England,2026-07-31 11:09:51+00,2026-07-31,2026-07-31,80000,80000,80000.000000000000
 5822126778,Works Planner (Data and GIS) - GLA15687,Glasgow,it-jobs,,,,2026-07-31 08:58:07+00,2026-07-31,2026-07-31,30001,40000,35000.500000000000
 5821413303,Senior Technical Application Specialist - Compliance Engineering,Lloyds Bank,it-jobs,,full_time,,2026-07-30 18:24:01+00,2026-07-31,2026-07-31,72702,80780,76741.000000000000
 5821372465,Cloud Solution Architect (Data & AI),Microsoft,it-jobs,contract,full_time,London,2026-07-30 18:16:45+00,2026-07-31,2026-07-31,61900,105500,83700.000000000000
+5822242545,Principal AI Engineer,Hackajob Ltd,it-jobs,permanent,,West Midlands,2026-07-31 11:09:46+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822120412,Associate Data Scientist,Vitality Corporate Services Limited,it-jobs,,full_time,London,2026-07-31 08:51:41+00,2026-07-31,2026-07-31,35000,35000,35000.000000000000
 5821348615,Technical Application Specialist,Lloyds Bank,it-jobs,,full_time,,2026-07-30 18:08:22+00,2026-07-31,2026-07-31,48987,54430,51708.500000000000
+5822116970,"Data Engineer (AWS) - 12-month FTC, Hybrid/London, Manchest",SmartSourcing PLC,it-jobs,contract,,North West England,2026-07-31 08:49:06+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
 5821324557,Technical Lead,Third Nexus Group Limited,it-jobs,permanent,full_time,London,2026-07-30 16:57:13+00,2026-07-31,2026-07-31,80000,100000,90000.000000000000
 5821315375,Senior Data Engineer,Lynx Recruitment Limited,it-jobs,,,London,2026-07-30 16:50:40+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
 5821152375,Data Enrichment Manager,Hunter Selection,it-jobs,contract,full_time,South East England,2026-07-30 15:03:49+00,2026-07-31,2026-07-31,80000,90000,85000.000000000000
@@ -21,14 +84,65 @@ id,title,company,category,contract_type,contract_time,region,created,first_seen,
 5821149018,Data Engineer AWS,SmartSourcing Ltd,it-jobs,contract,,Wales,2026-07-30 15:00:02+00,2026-07-31,2026-07-31,49400,49400,49400.000000000000
 5821149001,Data Engineer AWS,SmartSourcing Ltd,it-jobs,contract,,Scotland,2026-07-30 15:00:01+00,2026-07-31,2026-07-31,49400,49400,49400.000000000000
 5821148826,Senior Data Engineer,Lynx Recruitment Ltd,it-jobs,permanent,full_time,London,2026-07-30 14:59:49+00,2026-07-31,2026-07-31,60000,100000,80000.000000000000
+5822115787,Data Tech Lead,Morson Edge,it-jobs,,,North West England,2026-07-31 08:48:19+00,2026-07-31,2026-07-31,85000,85000,85000.000000000000
+5822113408,Senior AI Engineer,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:46:50+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822113409,Lead AI Engineer,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:46:50+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822110260,Lead Data Scientist - Workday Products,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:45:00+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5821939539,Programmer,Staffordshire County Council,it-jobs,permanent,,,2026-07-31 04:00:09+00,2026-07-31,2026-07-31,33699,38220,35959.500000000000
+5821875480,Lead Data Scientist - Workday Products,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 03:10:28+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5821839357,GCP Data Engineer (Python/BigQuery/Snowflake),Source Group International,it-jobs,contract,full_time,,2026-07-31 02:29:57+00,2026-07-31,2026-07-31,135200,156000,145600.000000000000
+5821839365,Senior Data Engineer,Langham Recruitment,it-jobs,permanent,full_time,West Midlands,2026-07-31 02:29:57+00,2026-07-31,2026-07-31,60000,70000,65000.000000000000
+5821721208,Data Solution Architect,Experis,it-jobs,contract,,London,2026-07-31 00:44:11+00,2026-07-31,2026-07-31,260000,390000,325000.000000000000
+5821655226,"Data Engineer (AWS) 12-month FTC, Hybrid/London, Manchester, Cardiff,",SmartSourcing PLC,it-jobs,contract,,Scotland,2026-07-30 23:12:34+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
+5821653350,Principal Product Manager,Anson McCade,it-jobs,permanent,,North East England,2026-07-30 23:10:29+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5821643340,Data Modeler,Harnham - Data & Analytics Recruitment,it-jobs,contract,,London,2026-07-30 23:02:42+00,2026-07-31,2026-07-31,156000,182000,169000.000000000000
+5821635812,Junior Data Engineer,Jackson Hogg,it-jobs,permanent,full_time,,2026-07-30 23:01:22+00,2026-07-31,2026-07-31,30000,35000,32500.000000000000
 5821633577,Research Infrasructure Engineer,Tate London City,it-jobs,permanent,full_time,South East England,2026-07-30 23:00:54+00,2026-07-31,2026-07-31,41000,49000,45000.000000000000
+5821433721,"Data Architect (Azure, Databricks, Data Modelling)",Robert Half,it-jobs,permanent,full_time,London,2026-07-30 20:48:41+00,2026-07-31,2026-07-31,156000,169000,162500.000000000000
+5821426123,Principal Data Product Manager,Anson McCade,it-jobs,permanent,,North West England,2026-07-30 19:12:12+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5821421629,SRE Technical Lead,FDM Group,it-jobs,contract,,South West England,2026-07-30 18:57:58+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5821421298,Data Solution Architect,Experis,it-jobs,contract,,London,2026-07-30 18:56:33+00,2026-07-31,2026-07-31,260000,260000,260000.000000000000
+5821421299,Data Engineer,Connect2Luton,it-jobs,contract,,Eastern England,2026-07-30 18:56:33+00,2026-07-31,2026-07-31,130000,143000,136500.000000000000
 5821407884,Commercial Strategy Manager,iwoca,it-jobs,,full_time,London,2026-07-30 18:22:14+00,2026-07-31,2026-07-31,70000,90000,80000.000000000000
 5821402179,Senior Product Lead (Conversion & Checkout),Autotrader,it-jobs,,,North West England,2026-07-30 18:21:10+00,2026-07-31,2026-07-31,65000,90000,77500.000000000000
+5821421290,BI Architect,Michael Page Technology,it-jobs,permanent,,London,2026-07-30 18:56:31+00,2026-07-31,2026-07-31,182000,208000,195000.000000000000
 5821349813,Senior Product Lead (New Car Advertising Products),Autotrader,it-jobs,,,North West England,2026-07-30 18:08:57+00,2026-07-31,2026-07-31,65000,90000,77500.000000000000
 5821349737,Sr Product Mgr II,Elsevier,it-jobs,,full_time,London,2026-07-30 18:08:44+00,2026-07-31,2026-07-31,100400,167300,133850.000000000000
+5821421263,Data Architect,Connect2Luton,it-jobs,contract,,Eastern England,2026-07-30 18:56:24+00,2026-07-31,2026-07-31,182000,182000,182000.000000000000
+5821421271,Junior Data Engineer,Jackson Hogg Ltd,it-jobs,,full_time,North East England,2026-07-30 18:56:24+00,2026-07-31,2026-07-31,30000,35000,32500.000000000000
+5821421111,Senior Data Engineer,Ikhoi Recruitment,it-jobs,permanent,full_time,London,2026-07-30 18:55:57+00,2026-07-31,2026-07-31,80000,94000,87000.000000000000
+5821421107,Data Engineer,Lynx Recruitment Ltd,it-jobs,permanent,full_time,London,2026-07-30 18:55:55+00,2026-07-31,2026-07-31,50000,60000,55000.000000000000
+5821421087,Data Engineer - Snowflake / 3NF,Sanderson,it-jobs,contract,,London,2026-07-30 18:55:46+00,2026-07-31,2026-07-31,143000,156000,149500.000000000000
+5821419296,Data Engineer (Azure/Fabric),Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,South East England,2026-07-30 18:34:33+00,2026-07-31,2026-07-31,50000,60000,55000.000000000000
+5822542430,Cloud Data Platform Specialist,IntaPeople,it-jobs,contract,,Wales,2026-07-31 16:58:54+00,2026-07-31,2026-07-31,78000,104000,91000.000000000000
 5821653505,Data Architect (SC  NPPV3 Cleared),Pigment Consulting,it-jobs,contract,,,2026-07-30 23:10:35+00,2026-07-31,2026-07-31,156000,182000,169000.000000000000
+5822527154,Energy Analyst,Low Carbon Contracts Company,it-jobs,permanent,,London,2026-07-31 16:53:36+00,2026-07-31,2026-07-31,50000,50000,50000.000000000000
+5822392278,Mid-Level AI Engineer,Nextech,it-jobs,permanent,full_time,South East England,2026-07-31 15:02:09+00,2026-07-31,2026-07-31,45000,55000,50000.000000000000
+5822390493,Software Engineer - AI / ML,EF Recruitment,it-jobs,contract,,London,2026-07-31 15:00:07+00,2026-07-31,2026-07-31,91000,91000,91000.000000000000
+5822335227,Acount Executive - SaaS/Software sales,Tech Buildr,sales-jobs,,full_time,North West England,2026-07-31 13:10:36+00,2026-07-31,2026-07-31,40000,45000,42500.000000000000
+5822289740,Research Infrastructure Engineer,Tate,it-jobs,,full_time,South East England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,41000,49000,45000.000000000000
+5822289508,Technical Lead,Uniting Ambition,it-jobs,,full_time,London,2026-07-31 11:29:50+00,2026-07-31,2026-07-31,100000,120000,110000.000000000000
+5822289486,Software Engineer,Allan Webb,it-jobs,,full_time,South West England,2026-07-31 11:29:49+00,2026-07-31,2026-07-31,27000,67000,47000.000000000000
+5822256872,Insights Sales Executive,Hackajob Ltd,sales-jobs,permanent,,London,2026-07-31 11:14:53+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822251620,Senior Data Scientist AI Engineer,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:12:52+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822249262,Price and Promotion Senior Consulting Lead,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:12:10+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822247611,"Digital Analyst, Hybrid, SQL, Retail Media",Sanderson Recruitment,it-jobs,contract,,South East England,2026-07-31 11:11:39+00,2026-07-31,2026-07-31,130000,143000,136500.000000000000
+5822247543,Senior User Researcher,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:11:38+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822246780,Group Tax Manager,Hackajob Ltd,accounting-finance-jobs,permanent,,London,2026-07-31 11:11:23+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822245979,Senior Data Scientist - Workday Products,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 11:11:07+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822245605,AI / ML Researcher - Hybrid,Anson Mccade,it-jobs,permanent,,Eastern England,2026-07-31 11:10:58+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
+5822245495,Lead Engineer - Workplace Technology and Automation,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:10:55+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822245492,Lead Engineer - Full Stack,Hackajob Ltd,it-jobs,permanent,,North West England,2026-07-31 11:10:55+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822244377,Senior Revenue Manager,Hackajob Ltd,accounting-finance-jobs,permanent,,London,2026-07-31 11:10:34+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822242735,Technical Operations Lead,Peregrine,it-jobs,permanent,,South West England,2026-07-31 11:09:50+00,2026-07-31,2026-07-31,127185,127185,127185.000000000000
+5822242503,Analytics Platform Engineer,LM RECRUITMENT SOLUTIONS LTD,it-jobs,permanent,full_time,Yorkshire And The Humber,2026-07-31 11:09:45+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
+5822233646,Senior Data Scientist,Harnham - Data & Analytics Recruitment,it-jobs,contract,,London,2026-07-31 11:00:14+00,2026-07-31,2026-07-31,104000,130000,117000.000000000000
+5822114625,Client Partner,Hackajob Ltd,sales-jobs,,,London,2026-07-31 08:47:33+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
 5821005586,Data & Application Developer,Ascent Performance Group Ltd,it-jobs,,full_time,North West England,2026-07-30 11:33:48+00,2026-07-31,2026-07-31,35000,45000,40000.000000000000
 5821005440,Oracle Fusion Technical Support Analyst,Gov Facility Services Ltd (GFSL,it-jobs,,full_time,London,2026-07-30 11:33:46+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
+5822113615,Group Tax Manager,Hackajob Ltd,accounting-finance-jobs,,,London,2026-07-31 08:47:05+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
+5822110258,Senior Data Scientist - Workday Products,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:45:00+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822109115,Analytics Platform Engineer,LM RECRUITMENT SOLUTIONS LTD,it-jobs,contract,full_time,South West England,2026-07-31 08:44:09+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
 5821005080,Data Scientist (AI & Conversational Analytics),Huxley Associates,it-jobs,,full_time,London,2026-07-30 11:33:42+00,2026-07-31,2026-07-31,90000,110000,100000.000000000000
 5821004840,BI Data Engineer,Parkside,it-jobs,permanent,full_time,West Midlands,2026-07-30 11:33:39+00,2026-07-31,2026-07-31,55000,55000,55000.000000000000
 5821004810,Senior Business Intelligence Analyst / Data Manager,IT Talent Solutions,it-jobs,,full_time,South East England,2026-07-30 11:33:39+00,2026-07-31,2026-07-31,50000,60000,55000.000000000000
@@ -104,125 +218,9 @@ id,title,company,category,contract_type,contract_time,region,created,first_seen,
 5822111916,Productivity Manager,Anson Mccade,accounting-finance-jobs,,,London,2026-07-31 08:45:41+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
 5822355338,Compliance Analyst,Pertemps SSDC - DDT,it-jobs,permanent,,Wales,2026-07-31 13:41:35+00,2026-07-31,2026-07-31,40643,40643,40643.000000000000
 5822289760,Data Analyst (Python / Data Quality),Historic Records Limited,it-jobs,,full_time,Eastern England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,24000,28800,26400.000000000000
-5821875510,Data Analyst Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 03:10:28+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
-5821148333,Senior Planning & Data Analyst,Morgan Law,it-jobs,permanent,full_time,London,2026-07-30 14:58:47+00,2026-07-31,2026-07-31,43000,50000,46500.000000000000
-5821314442,Data Analyst,Goodlife Recruitment Solutions Ltd,it-jobs,permanent,full_time,North West England,2026-07-30 16:48:35+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
-5821183026,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,contract,,London,2026-07-30 15:11:54+00,2026-07-31,2026-07-31,111020,111020,111020.000000000000
-5821154185,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,contract,,London,2026-07-30 15:06:09+00,2026-07-31,2026-07-31,84500,111020,97760.000000000000
-5821153515,Senior Planning & Data Analyst,Morgan Law,it-jobs,permanent,full_time,London,2026-07-30 15:04:49+00,2026-07-31,2026-07-31,43000,50000,46500.000000000000
-5821152253,Commercial Financial Analyst,Ashley Kate HR & Finance,accounting-finance-jobs,,full_time,North West England,2026-07-30 15:03:40+00,2026-07-31,2026-07-31,37500,40000,38750.000000000000
-5821149515,"SQL/Data Analyst (T-SQL, Azure Data Factory, Fabric, SSIS, ERP)",TXP Technology x People,it-jobs,contract,,West Midlands,2026-07-30 15:00:59+00,2026-07-31,2026-07-31,91000,104000,97500.000000000000
-5821148678,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,permanent,,London,2026-07-30 14:59:34+00,2026-07-31,2026-07-31,111020,111020,111020.000000000000
-5821148656,Data Analyst Apprentice,Back TO Work,it-jobs,,full_time,North West England,2026-07-30 14:59:32+00,2026-07-31,2026-07-31,25800,25800,25800.000000000000
-5821148351,Data Performance Manager,Acis Group Ltd,it-jobs,permanent,full_time,East Midlands,2026-07-30 14:58:52+00,2026-07-31,2026-07-31,40000,45000,42500.000000000000
-5821148323,Secondary SEMH Outreach Advisor,Supply Staff Limited,teaching-jobs,contract,,London,2026-07-30 14:58:44+00,2026-07-31,2026-07-31,84500,111020,97760.000000000000
-5821148304,Data Analyst and Technical Support Coordinator,OnetoOne Personnel,it-jobs,permanent,full_time,Eastern England,2026-07-30 14:58:39+00,2026-07-31,2026-07-31,37000,43000,40000.000000000000
-5821092171,"SQL/Data Analyst (T-SQL, Azure Data Factory, Fabric, SSIS, ERP)",TXP,it-jobs,contract,,West Midlands,2026-07-30 12:55:45+00,2026-07-31,2026-07-31,91000,104000,97500.000000000000
-5821005636,Data Analyst,Catalyst,it-jobs,permanent,full_time,Northern Ireland,2026-07-30 11:33:49+00,2026-07-31,2026-07-31,50000,80000,65000.000000000000
-5821005651,Data Analyst,NBI LLC,it-jobs,,full_time,West Midlands,2026-07-30 11:33:49+00,2026-07-31,2026-07-31,35000,50000,42500.000000000000
-5821005611,SQL Developer / Data Analyst,Beagle Aircraft,it-jobs,,full_time,South West England,2026-07-30 11:33:48+00,2026-07-31,2026-07-31,23000,63000,43000.000000000000
-5821005233,Data Analyst,VIQU IT,it-jobs,,full_time,Northern Ireland,2026-07-30 11:33:44+00,2026-07-31,2026-07-31,40000,50000,45000.000000000000
-5821005098,Data Analyst,JIYU People Ltd,it-jobs,,full_time,South West England,2026-07-30 11:33:42+00,2026-07-31,2026-07-31,40000,50000,45000.000000000000
-5821005129,Data Analyst / SQL Developer,Silcoms II Ltd,it-jobs,contract,full_time,North West England,2026-07-30 11:33:42+00,2026-07-31,2026-07-31,33000,43000,38000.000000000000
-5821004493,SC - Data Analyst,Velocity Talent,it-jobs,permanent,full_time,Yorkshire And The Humber,2026-07-30 11:33:36+00,2026-07-31,2026-07-31,75000,85000,80000.000000000000
-5821004492,Trainee Data Engineer,NEWTO TRAINING LIMITED,it-jobs,contract,,London,2026-07-30 11:33:36+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
-5821003808,Data Analyst Placement Programme,Data Jobs at ITOL Recruit,it-jobs,,full_time,West Midlands,2026-07-30 11:33:28+00,2026-07-31,2026-07-31,30000,45000,37500.000000000000
-5820807185,Customer Retention Strategist,Specsavers,it-jobs,permanent,full_time,South East England,2026-07-30 06:33:30+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
-5820802552,Customer Retention Strategist,Specsavers,it-jobs,permanent,full_time,East Midlands,2026-07-30 06:30:30+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
-5820801563,Customer Retention Strategist,Specsavers,it-jobs,permanent,full_time,Scotland,2026-07-30 06:29:30+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
-5820422952,Data Analyst,Euro Car Parks,it-jobs,permanent,full_time,London,2026-07-30 00:51:19+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5820419256,Data Analyst - Performance,Elevate Recruitment.,it-jobs,permanent,,London,2026-07-30 00:49:44+00,2026-07-31,2026-07-31,35000,35000,35000.000000000000
-5820418826,Data Analyst,Catalyst,it-jobs,permanent,full_time,North East England,2026-07-30 00:47:39+00,2026-07-31,2026-07-31,80000,80000,80000.000000000000
-5820418829,HR Data Analyst,Liberty Recruitment Group,it-jobs,,,South East England,2026-07-30 00:47:39+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
-5820418690,Full Stack Developer,Oscar Associates  Limited,it-jobs,,,East Midlands,2026-07-30 00:47:09+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
-5820418123,Senior AI Engineer,CarFinance 247,it-jobs,,,North West England,2026-07-30 00:44:56+00,2026-07-31,2026-07-31,80000,80000,80000.000000000000
-5820373355,Trainee Data Engineer Programme No Experience Required,NEWTO TRAINING LIMITED,it-jobs,permanent,,Yorkshire And The Humber,2026-07-29 23:08:08+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
-5820342708,Data Analyst,Elevate Recruitment Limited,it-jobs,permanent,full_time,London,2026-07-29 22:56:18+00,2026-07-31,2026-07-31,30000,39000,34500.000000000000
-5820158303,Data Analyst,Catalyst,it-jobs,permanent,full_time,North East England,2026-07-29 20:55:12+00,2026-07-31,2026-07-31,50000,80000,65000.000000000000
-5820123922,Graduate Data Consultant,Jackson Hogg,graduate-jobs,permanent,full_time,Yorkshire And The Humber,2026-07-29 18:53:01+00,2026-07-31,2026-07-31,25000,30000,27500.000000000000
-5822545719,Head of Data & Analytics,Curtis Recruitment Limited,it-jobs,,full_time,Eastern England,2026-07-31 17:03:33+00,2026-07-31,2026-07-31,85000,115000,100000.000000000000
-5822527979,PowerBI Developer,Anson Mccade,it-jobs,,,London,2026-07-31 16:55:18+00,2026-07-31,2026-07-31,156000,182000,169000.000000000000
-5822400748,Principal Product Manager,Anson Mccade,it-jobs,permanent,,West Midlands,2026-07-31 15:14:11+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822391758,Senior Data Architect,Tenth Revolution Group,it-jobs,permanent,full_time,London,2026-07-31 15:01:28+00,2026-07-31,2026-07-31,85000,120000,102500.000000000000
-5822390407,Data Engineer,Third Nexus Group Limited,it-jobs,permanent,full_time,London,2026-07-31 14:59:56+00,2026-07-31,2026-07-31,75000,100000,87500.000000000000
-5822289778,Lead Data Scientist,Hackajob Ltd,it-jobs,,full_time,North West England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822289741,Python Developer,Tria,it-jobs,,full_time,West Midlands,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,45000,50000,47500.000000000000
-5822289733,Junior Data Engineer,Jackson Hogg Ltd,it-jobs,,full_time,North East England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,30000,35000,32500.000000000000
-5822289667,Senior Technical Product Manager,ST Selection,it-jobs,,full_time,West Midlands,2026-07-31 11:30:03+00,2026-07-31,2026-07-31,70000,75000,72500.000000000000
-5822289462,Azure Data DevOps Engineer,Assura Protect,it-jobs,,full_time,London,2026-07-31 11:29:49+00,2026-07-31,2026-07-31,60000,95669,77834.500000000000
-5822252503,Data Engineering Manager,Datatech Analytics,it-jobs,permanent,,London,2026-07-31 11:13:07+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822251766,Lead Product Manager,Anson Mccade,it-jobs,permanent,,West Midlands,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
-5822251771,Principal Product Manager,Anson Mccade,it-jobs,permanent,,Scotland,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822251800,Lead Product Manager,Anson Mccade,it-jobs,permanent,,North West England,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
-5822251764,Lead Product Manager,Anson Mccade,it-jobs,permanent,,South West England,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
-5822251768,Lead Product Manager,Anson Mccade,it-jobs,permanent,,North East England,2026-07-31 11:12:54+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
-5822251740,Principal Product Manager,Anson Mccade,it-jobs,permanent,,South West England,2026-07-31 11:12:53+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822251398,Systems Engineering Lead - Spartan Data Workstream,Hackajob Ltd,engineering-jobs,permanent,,North West England,2026-07-31 11:12:48+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822251443,Lead Product Manager,Anson Mccade,it-jobs,permanent,,South West England,2026-07-31 11:12:48+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
-5822247058,Senior Product Data Scientist,Datatech Analytics,it-jobs,permanent,,South East England,2026-07-31 11:11:28+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822245955,Senior Manager of Data Science,WRK DIGITAL LTD,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 11:11:06+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822245733,Customer Sales Engineer,True Worth Consulting Ltd,it-jobs,permanent,full_time,North West England,2026-07-31 11:11:01+00,2026-07-31,2026-07-31,60000,60000,60000.000000000000
-5822245512,Senior AI Engineer,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 11:10:56+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822245460,Lead AI Engineer,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 11:10:55+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822244368,Portfolio Analyst,AWE Plc,it-jobs,permanent,,South East England,2026-07-31 11:10:34+00,2026-07-31,2026-07-31,55000,55000,55000.000000000000
-5822242787,Software Engineer - eDV,Henderson Scott,it-jobs,permanent,,South West England,2026-07-31 11:09:51+00,2026-07-31,2026-07-31,80000,80000,80000.000000000000
-5822242545,Principal AI Engineer,Hackajob Ltd,it-jobs,permanent,,West Midlands,2026-07-31 11:09:46+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822120412,Associate Data Scientist,Vitality Corporate Services Limited,it-jobs,,full_time,London,2026-07-31 08:51:41+00,2026-07-31,2026-07-31,35000,35000,35000.000000000000
-5822116970,"Data Engineer (AWS) - 12-month FTC, Hybrid/London, Manchest",SmartSourcing PLC,it-jobs,contract,,North West England,2026-07-31 08:49:06+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
-5822115787,Data Tech Lead,Morson Edge,it-jobs,,,North West England,2026-07-31 08:48:19+00,2026-07-31,2026-07-31,85000,85000,85000.000000000000
-5822113408,Senior AI Engineer,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:46:50+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822113409,Lead AI Engineer,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:46:50+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822110260,Lead Data Scientist - Workday Products,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:45:00+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5821939539,Programmer,Staffordshire County Council,it-jobs,permanent,,,2026-07-31 04:00:09+00,2026-07-31,2026-07-31,33699,38220,35959.500000000000
-5821875480,Lead Data Scientist - Workday Products,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 03:10:28+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5821839357,GCP Data Engineer (Python/BigQuery/Snowflake),Source Group International,it-jobs,contract,full_time,,2026-07-31 02:29:57+00,2026-07-31,2026-07-31,135200,156000,145600.000000000000
-5821839365,Senior Data Engineer,Langham Recruitment,it-jobs,permanent,full_time,West Midlands,2026-07-31 02:29:57+00,2026-07-31,2026-07-31,60000,70000,65000.000000000000
-5821721208,Data Solution Architect,Experis,it-jobs,contract,,London,2026-07-31 00:44:11+00,2026-07-31,2026-07-31,260000,390000,325000.000000000000
-5821655226,"Data Engineer (AWS) 12-month FTC, Hybrid/London, Manchester, Cardiff,",SmartSourcing PLC,it-jobs,contract,,Scotland,2026-07-30 23:12:34+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
-5821653350,Principal Product Manager,Anson McCade,it-jobs,permanent,,North East England,2026-07-30 23:10:29+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5821643340,Data Modeler,Harnham - Data & Analytics Recruitment,it-jobs,contract,,London,2026-07-30 23:02:42+00,2026-07-31,2026-07-31,156000,182000,169000.000000000000
-5821635812,Junior Data Engineer,Jackson Hogg,it-jobs,permanent,full_time,,2026-07-30 23:01:22+00,2026-07-31,2026-07-31,30000,35000,32500.000000000000
-5821433721,"Data Architect (Azure, Databricks, Data Modelling)",Robert Half,it-jobs,permanent,full_time,London,2026-07-30 20:48:41+00,2026-07-31,2026-07-31,156000,169000,162500.000000000000
-5821426123,Principal Data Product Manager,Anson McCade,it-jobs,permanent,,North West England,2026-07-30 19:12:12+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5821421629,SRE Technical Lead,FDM Group,it-jobs,contract,,South West England,2026-07-30 18:57:58+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5821421298,Data Solution Architect,Experis,it-jobs,contract,,London,2026-07-30 18:56:33+00,2026-07-31,2026-07-31,260000,260000,260000.000000000000
-5821421299,Data Engineer,Connect2Luton,it-jobs,contract,,Eastern England,2026-07-30 18:56:33+00,2026-07-31,2026-07-31,130000,143000,136500.000000000000
-5821421290,BI Architect,Michael Page Technology,it-jobs,permanent,,London,2026-07-30 18:56:31+00,2026-07-31,2026-07-31,182000,208000,195000.000000000000
-5821421263,Data Architect,Connect2Luton,it-jobs,contract,,Eastern England,2026-07-30 18:56:24+00,2026-07-31,2026-07-31,182000,182000,182000.000000000000
-5821421271,Junior Data Engineer,Jackson Hogg Ltd,it-jobs,,full_time,North East England,2026-07-30 18:56:24+00,2026-07-31,2026-07-31,30000,35000,32500.000000000000
-5821421111,Senior Data Engineer,Ikhoi Recruitment,it-jobs,permanent,full_time,London,2026-07-30 18:55:57+00,2026-07-31,2026-07-31,80000,94000,87000.000000000000
-5821421107,Data Engineer,Lynx Recruitment Ltd,it-jobs,permanent,full_time,London,2026-07-30 18:55:55+00,2026-07-31,2026-07-31,50000,60000,55000.000000000000
-5821421087,Data Engineer - Snowflake / 3NF,Sanderson,it-jobs,contract,,London,2026-07-30 18:55:46+00,2026-07-31,2026-07-31,143000,156000,149500.000000000000
-5821419296,Data Engineer (Azure/Fabric),Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,South East England,2026-07-30 18:34:33+00,2026-07-31,2026-07-31,50000,60000,55000.000000000000
-5822542430,Cloud Data Platform Specialist,IntaPeople,it-jobs,contract,,Wales,2026-07-31 16:58:54+00,2026-07-31,2026-07-31,78000,104000,91000.000000000000
-5822527154,Energy Analyst,Low Carbon Contracts Company,it-jobs,permanent,,London,2026-07-31 16:53:36+00,2026-07-31,2026-07-31,50000,50000,50000.000000000000
-5822392278,Mid-Level AI Engineer,Nextech,it-jobs,permanent,full_time,South East England,2026-07-31 15:02:09+00,2026-07-31,2026-07-31,45000,55000,50000.000000000000
-5822390493,Software Engineer - AI / ML,EF Recruitment,it-jobs,contract,,London,2026-07-31 15:00:07+00,2026-07-31,2026-07-31,91000,91000,91000.000000000000
-5822335227,Acount Executive - SaaS/Software sales,Tech Buildr,sales-jobs,,full_time,North West England,2026-07-31 13:10:36+00,2026-07-31,2026-07-31,40000,45000,42500.000000000000
-5822289740,Research Infrastructure Engineer,Tate,it-jobs,,full_time,South East England,2026-07-31 11:30:04+00,2026-07-31,2026-07-31,41000,49000,45000.000000000000
-5822289508,Technical Lead,Uniting Ambition,it-jobs,,full_time,London,2026-07-31 11:29:50+00,2026-07-31,2026-07-31,100000,120000,110000.000000000000
-5822289486,Software Engineer,Allan Webb,it-jobs,,full_time,South West England,2026-07-31 11:29:49+00,2026-07-31,2026-07-31,27000,67000,47000.000000000000
-5822256872,Insights Sales Executive,Hackajob Ltd,sales-jobs,permanent,,London,2026-07-31 11:14:53+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822251620,Senior Data Scientist AI Engineer,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:12:52+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822249236,Client Partner,Hackajob Ltd,sales-jobs,permanent,,London,2026-07-31 11:12:10+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822249262,Price and Promotion Senior Consulting Lead,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:12:10+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822247611,"Digital Analyst, Hybrid, SQL, Retail Media",Sanderson Recruitment,it-jobs,contract,,South East England,2026-07-31 11:11:39+00,2026-07-31,2026-07-31,130000,143000,136500.000000000000
-5822247543,Senior User Researcher,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:11:38+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822246780,Group Tax Manager,Hackajob Ltd,accounting-finance-jobs,permanent,,London,2026-07-31 11:11:23+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822245979,Senior Data Scientist - Workday Products,Hackajob Ltd,it-jobs,permanent,,Northern Ireland,2026-07-31 11:11:07+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822245605,AI / ML Researcher - Hybrid,Anson Mccade,it-jobs,permanent,,Eastern England,2026-07-31 11:10:58+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
-5822245495,Lead Engineer - Workplace Technology and Automation,Hackajob Ltd,it-jobs,permanent,,London,2026-07-31 11:10:55+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822245492,Lead Engineer - Full Stack,Hackajob Ltd,it-jobs,permanent,,North West England,2026-07-31 11:10:55+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822244377,Senior Revenue Manager,Hackajob Ltd,accounting-finance-jobs,permanent,,London,2026-07-31 11:10:34+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822242735,Technical Operations Lead,Peregrine,it-jobs,permanent,,South West England,2026-07-31 11:09:50+00,2026-07-31,2026-07-31,127185,127185,127185.000000000000
-5822242503,Analytics Platform Engineer,LM RECRUITMENT SOLUTIONS LTD,it-jobs,permanent,full_time,Yorkshire And The Humber,2026-07-31 11:09:45+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
-5822233646,Senior Data Scientist,Harnham - Data & Analytics Recruitment,it-jobs,contract,,London,2026-07-31 11:00:14+00,2026-07-31,2026-07-31,104000,130000,117000.000000000000
-5822114625,Client Partner,Hackajob Ltd,sales-jobs,,,London,2026-07-31 08:47:33+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822113615,Group Tax Manager,Hackajob Ltd,accounting-finance-jobs,,,London,2026-07-31 08:47:05+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
-5822110258,Senior Data Scientist - Workday Products,Hackajob Ltd,it-jobs,,,Northern Ireland,2026-07-31 08:45:00+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
-5822109115,Analytics Platform Engineer,LM RECRUITMENT SOLUTIONS LTD,it-jobs,contract,full_time,South West England,2026-07-31 08:44:09+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
 5822083473,Retail Data & Insights Manager,Cotswold Outdoor Group Ltd,it-jobs,permanent,,South West England,2026-07-31 07:10:15+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
 5822083453,AI/Machine Learning Consultant,Experis,it-jobs,permanent,,,2026-07-31 07:10:09+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
+5821875510,Data Analyst Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 03:10:28+00,2026-07-31,2026-07-31,65000,65000,65000.000000000000
 5821876635,eDV Data Scientist,NSD,it-jobs,permanent,full_time,South West England,2026-07-31 03:10:41+00,2026-07-31,2026-07-31,95000,95000,95000.000000000000
 5821875490,DV Cleared Data Scientist,Salt,it-jobs,permanent,full_time,,2026-07-31 03:10:28+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
 5821875483,Data Science Manager,Salt,it-jobs,permanent,,South East England,2026-07-31 03:10:28+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
@@ -231,8 +229,9 @@ id,title,company,category,contract_type,contract_time,region,created,first_seen,
 5821873163,AI Engineer Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 03:10:02+00,2026-07-31,2026-07-31,75000,75000,75000.000000000000
 5821721494,Retail Data & Insights Manager,Cotswold Outdoor Group Ltd,it-jobs,,,South West England,2026-07-31 00:47:16+00,2026-07-31,2026-07-31,40000,40000,40000.000000000000
 5821655703,Head of Detection & Decisioning,Adria Solutions,accounting-finance-jobs,permanent,,North West England,2026-07-30 23:14:34+00,2026-07-31,2026-07-31,90000,90000,90000.000000000000
+5822527979,PowerBI Developer,Anson Mccade,it-jobs,,,London,2026-07-31 16:55:18+00,2026-07-31,2026-07-31,156000,182000,169000.000000000000
+5822249236,Client Partner,Hackajob Ltd,sales-jobs,permanent,,London,2026-07-31 11:12:10+00,2026-07-31,2026-07-31,100000,100000,100000.000000000000
 5821414133,Data Science & AI Delivery Lead,AXIS,it-jobs,,full_time,London,2026-07-30 18:26:06+00,2026-07-31,2026-07-31,110000,130000,120000.000000000000
-5822399401,Microsoft 365 Specialist,Axel Johnson International,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 15:12:06+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
 5822251321,Category Specialist,AWE Plc,it-jobs,permanent,,South East England,2026-07-31 11:12:47+00,2026-07-31,2026-07-31,45000,45000,45000.000000000000
 5822232950,Senior Analytics Engineer,Tech4 Ltd,it-jobs,,full_time,South East England,2026-07-31 10:57:46+00,2026-07-31,2026-07-31,60000,65000,62500.000000000000
 5821653748,HR People Specialist,Royal Air Force,hr-jobs,permanent,full_time,,2026-07-30 23:10:57+00,2026-07-31,2026-07-31,26000,26000,26000.000000000000
@@ -303,126 +302,16 @@ id,title,company,category,contract_type,contract_time,region,created,first_seen,
 5822415908,Head of Financial Accounting,Morgan Hunt Group Limited,accounting-finance-jobs,permanent,,Scotland,2026-07-31 15:59:18+00,2026-07-31,2026-07-31,61000,69000,65000.000000000000
 5822415787,National Support Centre Supervisor,VICTIM SUPPORT SCOTLAND,healthcare-nursing-jobs,contract,full_time,,2026-07-31 15:59:08+00,2026-07-31,2026-07-31,27598,36445,32021.500000000000
 5822412862,Head of Procurement,Talensol Pvt Ltd,graduate-jobs,permanent,full_time,South East England,2026-07-31 15:49:12+00,2026-07-31,2026-07-31,58000,63000,60500.000000000000
-5824020406,Data Business Analyst,Futures,it-jobs,,,Yorkshire And The Humber,2026-08-01 15:09:49+00,2026-08-01,2026-08-01,47000,52000,49500.000000000000
-5823818979,Senior AI Engineer,CarFinance 247,it-jobs,,full_time,North West England,2026-08-01 11:30:28+00,2026-08-01,2026-08-01,80000,80000,80000.000000000000
-5823818864,Property Business Insight Analyst,Orbit Group,it-jobs,,full_time,West Midlands,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,38238,46736,42487.000000000000
-5823818880,IT Data Analyst Intern,Eligo Recruitment Ltd,it-jobs,contract,,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,25000,25000,25000.000000000000
-5823818540,Data Analyst,Paterson Simons & Co  Ltd.,it-jobs,,full_time,Scotland,2026-08-01 11:30:15+00,2026-08-01,2026-08-01,28000,28000,28000.000000000000
-5823818602,Data Science Manager,WRK DIGITAL LTD,it-jobs,permanent,full_time,Yorkshire And The Humber,2026-08-01 11:30:15+00,2026-08-01,2026-08-01,70000,70000,70000.000000000000
-5823756497,Data Business Analyst,Permanent Futures Limited,it-jobs,,full_time,Yorkshire And The Humber,2026-08-01 11:04:30+00,2026-08-01,2026-08-01,47000,52000,49500.000000000000
-5823713300,Customer Service Centre Advisor - Preston,Places For People,customer-services-jobs,,,North West England,2026-08-01 10:10:43+00,2026-08-01,2026-08-01,27030,27030,27030.000000000000
-5823025597,Property Business Insight Analyst,Orbit Group,it-jobs,,,West Midlands,2026-08-01 01:27:32+00,2026-08-01,2026-08-01,38238,46736,42487.000000000000
-5822950866,HR Data Analyst,HomeServe,hr-jobs,,,West Midlands,2026-08-01 00:51:43+00,2026-08-01,2026-08-01,40000,40000,40000.000000000000
-5822919325,SC Cleared Data Engineer - INSIDE IR35,Pearson Carter,it-jobs,contract,full_time,South East England,2026-08-01 00:17:04+00,2026-08-01,2026-08-01,78000,260000,169000.000000000000
-5822628736,Data Analyst,HAYS Specialist Recruitment,it-jobs,permanent,,Northern Ireland,2026-07-31 20:30:56+00,2026-08-01,2026-08-01,40000,40000,40000.000000000000
-5822594517,IT Data Analyst Intern / Student Placement Year,Eligo Recruitment,it-jobs,permanent,full_time,East Midlands,2026-07-31 19:08:17+00,2026-08-01,2026-08-01,25000,25000,25000.000000000000
-5822594255,Data Analyst,Hays Specialist Recruitment Limited,it-jobs,permanent,,South East England,2026-07-31 19:06:54+00,2026-08-01,2026-08-01,130000,130000,130000.000000000000
-5822594087,Data Analyst,Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,South East England,2026-07-31 19:05:55+00,2026-08-01,2026-08-01,50000,55000,52500.000000000000
-5822592518,Graduate Data Analyst - Remote - Data / Analytics - Must have a STEM degree - Strong Excel,Hawke Search,graduate-jobs,permanent,full_time,London,2026-07-31 18:40:42+00,2026-08-01,2026-08-01,25000,30000,27500.000000000000
-5822591993,Graduate Recruitment Consultant,Virtus Talent,graduate-jobs,permanent,full_time,South West England,2026-07-31 18:40:10+00,2026-08-01,2026-08-01,27000,30000,28500.000000000000
-5822591752,Data Analyst,Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,London,2026-07-31 18:39:54+00,2026-08-01,2026-08-01,45000,45000,45000.000000000000
-5822591631,Senior Data Analyst,Harnham - Data & Analytics Recruitment,pr-advertising-marketing-jobs,permanent,full_time,London,2026-07-31 18:39:47+00,2026-08-01,2026-08-01,40000,50000,45000.000000000000
-5822591452,Graduate Data Analyst,Consula Group LTD,graduate-jobs,permanent,full_time,London,2026-07-31 18:39:36+00,2026-08-01,2026-08-01,45000,45000,45000.000000000000
-5822590906,Data Administrator,We Do Group,admin-jobs,contract,,South East England,2026-07-31 18:39:01+00,2026-08-01,2026-08-01,28000,34000,31000.000000000000
-5822590694,Graduate Data Analyst,Consula Group LTD,graduate-jobs,permanent,full_time,North West England,2026-07-31 18:38:48+00,2026-08-01,2026-08-01,45000,45000,45000.000000000000
-5822590194,Data Analyst,Catalyst,it-jobs,permanent,full_time,North East England,2026-07-31 18:38:16+00,2026-08-01,2026-08-01,50000,80000,65000.000000000000
-5822589077,Compliance Analyst,Pertemps SSDC - DDT,it-jobs,permanent,,Wales,2026-07-31 18:37:09+00,2026-08-01,2026-08-01,40643,40643,40643.000000000000
-5822589021,Data Analyst,Harnham - Data & Analytics Recruitment,consultancy-jobs,permanent,full_time,London,2026-07-31 18:37:07+00,2026-08-01,2026-08-01,50000,54000,52000.000000000000
-5822588610,Product Data Analyst,one2one Recruitment,it-jobs,permanent,full_time,East Midlands,2026-07-31 18:36:54+00,2026-08-01,2026-08-01,33000,41000,37000.000000000000
-5822588059,Finance Data Analyst,Michael Page Finance,accounting-finance-jobs,permanent,full_time,North West England,2026-07-31 18:36:36+00,2026-08-01,2026-08-01,29000,34000,31500.000000000000
-5822542429,Property Business Insight Analyst,Orbit Group,it-jobs,,full_time,West Midlands,2026-07-31 16:58:54+00,2026-07-31,2026-08-01,38238,46736,42487.000000000000
-5822400614,Key Account Manager - Tesco Retail Media,Hackajob Ltd,sales-jobs,permanent,,London,2026-07-31 15:13:57+00,2026-08-01,2026-08-01,100000,100000,100000.000000000000
-5822390651,IT Data Analyst Intern / Student Placement Year,Eligo Recruitment Ltd,it-jobs,contract,full_time,East Midlands,2026-07-31 15:00:20+00,2026-07-31,2026-08-01,25000,25000,25000.000000000000
-5822323081,DSO Engineer,National Grid,it-jobs,,,London,2026-07-31 12:28:18+00,2026-07-31,2026-08-01,79923,79923,79923.000000000000
-5822255736,Senior Data Analyst,WRK DIGITAL LTD,it-jobs,permanent,,West Midlands,2026-07-31 11:14:09+00,2026-08-01,2026-08-01,60000,60000,60000.000000000000
-5822255606,Lead Data Engineer,Elevate Recruitment.,it-jobs,permanent,,London,2026-07-31 11:14:05+00,2026-07-31,2026-08-01,50000,50000,50000.000000000000
-5822255564,HR Data Analyst,Liberty Recruitment Group,it-jobs,permanent,,South East England,2026-07-31 11:14:03+00,2026-08-01,2026-08-01,40000,40000,40000.000000000000
-5822248097,Compliance Analyst,Pertemps SSDC DDT,it-jobs,contract,,Wales,2026-07-31 11:11:51+00,2026-07-31,2026-08-01,40643,40643,40643.000000000000
-5822242613,Senior Data Information Architect,Hackajob Ltd,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 11:09:47+00,2026-07-31,2026-08-01,75000,75000,75000.000000000000
-5822109155,Senior Data Information Architect,Hackajob Ltd,it-jobs,,,Yorkshire And The Humber,2026-07-31 08:44:09+00,2026-07-31,2026-08-01,75000,75000,75000.000000000000
-5821891822,Finance Data Analyst,Northern Ireland Housing Executive,admin-jobs,contract,,Northern Ireland,2026-07-31 03:20:56+00,2026-07-31,2026-08-01,30000,30000,30000.000000000000
-5821875523,Data Analyst Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,South West England,2026-07-31 03:10:28+00,2026-07-31,2026-08-01,65000,65000,65000.000000000000
-5821873736,Trainee Data Engineer Programme No Experience Required,NEWTO TRAINING LIMITED,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 03:10:08+00,2026-07-31,2026-08-01,40000,40000,40000.000000000000
-5821873726,Trainee Data Engineer Programme No Experience Required,NEWTO TRAINING LIMITED,it-jobs,permanent,,Scotland,2026-07-31 03:10:07+00,2026-07-31,2026-08-01,40000,40000,40000.000000000000
-5821727302,Data Analyst - FTC,Bright Purple Resourcing,it-jobs,contract,,Scotland,2026-07-31 00:53:02+00,2026-07-31,2026-08-01,45000,45000,45000.000000000000
-5821722641,Data Analyst Apprentice,Back 2 Work,it-jobs,,,North West England,2026-07-31 00:51:56+00,2026-07-31,2026-08-01,24000,24000,24000.000000000000
-5821655243,Senior Financial Reporting Analyst,CV Screen Ltd,accounting-finance-jobs,permanent,full_time,South East England,2026-07-30 23:12:36+00,2026-07-31,2026-08-01,80000,80000,80000.000000000000
-5821653503,Data Science Manager,WRK DIGITAL LTD,it-jobs,permanent,,West Midlands,2026-07-30 23:10:35+00,2026-07-31,2026-08-01,70000,70000,70000.000000000000
 5821433024,T-SQL Data Analyst,Concept Resourcing,it-jobs,contract,full_time,West Midlands,2026-07-30 20:44:34+00,2026-07-31,2026-08-01,104000,104000,104000.000000000000
 5821425559,Military Intelligence & Data Analyst Coach,Find Recruitment Group LTD,teaching-jobs,,full_time,Eastern England,2026-07-30 19:08:40+00,2026-07-31,2026-08-01,35000,35000,35000.000000000000
 5821371289,Experience Design Principal,Made Tech,it-jobs,,full_time,London,2026-07-30 18:16:30+00,2026-07-31,2026-08-01,72000,90000,81000.000000000000
-5824430444,AWS Data Architect - Home-Based,ISR Recruitment,it-jobs,contract,,North West England,2026-08-01 18:26:17+00,2026-08-01,2026-08-01,156000,169000,162500.000000000000
-5824391040,Senior Data Engineer,Evergreen Finance,it-jobs,,full_time,,2026-08-01 18:20:55+00,2026-08-01,2026-08-01,70000,80000,75000.000000000000
-5824353789,Digital Trading Insight Manager,John Lewis,it-jobs,permanent,full_time,London,2026-08-01 18:07:50+00,2026-08-01,2026-08-01,62000,115000,88500.000000000000
-5823818941,Senior AI Engineer,Hackajob Ltd,it-jobs,,full_time,North West England,2026-08-01 11:30:28+00,2026-08-01,2026-08-01,90000,90000,90000.000000000000
-5823818934,Lead AI Engineer,Hackajob Ltd,it-jobs,,full_time,North West England,2026-08-01 11:30:28+00,2026-08-01,2026-08-01,90000,90000,90000.000000000000
-5823818857,Data Engineer,Third Nexus Group Limited,it-jobs,permanent,full_time,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,75000,100000,87500.000000000000
-5823818883,Principal AI Engineer,Hackajob Ltd,it-jobs,,full_time,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,100000,100000,100000.000000000000
-5823818870,Senior Data Engineer,IMT Resourcing Solutions,it-jobs,,full_time,South West England,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,75000,85000,80000.000000000000
-5823818761,Contract Data Engineer - SC Cleared,Fruition Group,it-jobs,contract,,Yorkshire And The Humber,2026-08-01 11:30:24+00,2026-08-01,2026-08-01,130000,143000,136500.000000000000
-5823818667,Senior Product Data Scientist,Datatech Analytics,it-jobs,,full_time,South East England,2026-08-01 11:30:19+00,2026-08-01,2026-08-01,90000,90000,90000.000000000000
-5823818551,Product Owner Innovation,BAE Systems,it-jobs,,full_time,South East England,2026-08-01 11:30:15+00,2026-08-01,2026-08-01,40000,70000,55000.000000000000
-5823818535,Global IT Data Engineer,Boston Consulting Group,it-jobs,,full_time,London,2026-08-01 11:30:14+00,2026-08-01,2026-08-01,105000,130000,117500.000000000000
 5823780440,Data Platform Engineer,Hays,it-jobs,contract,,South East England,2026-08-01 11:13:30+00,2026-08-01,2026-08-01,91000,91000,91000.000000000000
-5823777526,FP&A AI Transformation Manager,Pratap Partnership Ltd,it-jobs,permanent,,Yorkshire And The Humber,2026-08-01 11:12:06+00,2026-08-01,2026-08-01,100000,100000,100000.000000000000
-5823387945,Senior Data Modeller,Specsavers,it-jobs,permanent,full_time,East Midlands,2026-08-01 06:40:45+00,2026-08-01,2026-08-01,75000,75000,75000.000000000000
-5823387314,Senior Data Modeller,Specsavers,it-jobs,permanent,full_time,South East England,2026-08-01 06:38:55+00,2026-08-01,2026-08-01,75000,75000,75000.000000000000
-5823382848,Senior Data Modeller,Specsavers,it-jobs,permanent,full_time,Scotland,2026-08-01 06:37:11+00,2026-08-01,2026-08-01,75000,75000,75000.000000000000
-5822943789,Head of Data & Analytics,Curtis Recruitment,it-jobs,,,Eastern England,2026-08-01 00:49:56+00,2026-08-01,2026-08-01,100000,100000,100000.000000000000
-5822670497,Senior / Principal Insurance Ontologist,Galaxi Consulting,it-jobs,permanent,full_time,London,2026-07-31 21:10:33+00,2026-08-01,2026-08-01,90000,100000,95000.000000000000
-5822646616,Cyber Security Engineer,Square One Resources,it-jobs,contract,full_time,Yorkshire And The Humber,2026-07-31 20:46:10+00,2026-08-01,2026-08-01,117000,130000,123500.000000000000
-5822628749,Manufacturing Data Engineer,McElroy Resourcing,engineering-jobs,,,Northern Ireland,2026-07-31 20:30:56+00,2026-08-01,2026-08-01,45000,45000,45000.000000000000
-5822594888,Senior Data Engineer,IMT Resourcing,it-jobs,permanent,full_time,South West England,2026-07-31 19:09:16+00,2026-08-01,2026-08-01,75000,85000,80000.000000000000
 5822594783,Lead Data Architect / Lead Data Engineer - Azure Databricks | Energy Trading,Broster Buchanan,it-jobs,permanent,full_time,London,2026-07-31 19:08:58+00,2026-08-01,2026-08-01,156000,175500,165750.000000000000
 5822594667,Data Engineer - TV/Film,Handle Recruitment,it-jobs,permanent,,London,2026-07-31 19:08:44+00,2026-08-01,2026-08-01,45000,50000,47500.000000000000
 5822594407,Senior Data Engineer,Jackson Hogg,it-jobs,permanent,full_time,,2026-07-31 19:07:54+00,2026-08-01,2026-08-01,50000,60000,55000.000000000000
 5822593910,SC Cleared GCP Data Engineer (contract),Opus Recruitment Solutions Ltd,it-jobs,contract,,London,2026-07-31 19:04:34+00,2026-08-01,2026-08-01,143000,169000,156000.000000000000
-5824444223,Partnerships Manager,Monzo,sales-jobs,,,London,2026-08-01 18:29:27+00,2026-08-01,2026-08-01,86000,115000,100500.000000000000
-5824440764,Insight Analyst,Electric Twin,it-jobs,,full_time,London,2026-08-01 18:28:30+00,2026-08-01,2026-08-01,35000,45000,40000.000000000000
-5824394175,Marketplace Operations Lead,Wheely,it-jobs,,full_time,London,2026-08-01 18:21:19+00,2026-08-01,2026-08-01,65000,90000,77500.000000000000
-5824029769,AI Engineer Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,Yorkshire And The Humber,2026-08-01 15:13:59+00,2026-08-01,2026-08-01,75000,75000,75000.000000000000
-5823818940,Lead Engineer - Workplace Technology and Automation,Hackajob Ltd,it-jobs,,full_time,Yorkshire And The Humber,2026-08-01 11:30:28+00,2026-08-01,2026-08-01,95000,95000,95000.000000000000
-5823818820,Data Scientist - London,Information Tech Consultants,it-jobs,,full_time,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,35000,45000,40000.000000000000
-5823818795,Lead Engineer - Full Stack,Hackajob Ltd,it-jobs,,full_time,North West England,2026-08-01 11:30:26+00,2026-08-01,2026-08-01,95000,95000,95000.000000000000
-5823818784,Infrastructure Support Engineer,Peregrine,it-jobs,permanent,full_time,London,2026-08-01 11:30:25+00,2026-08-01,2026-08-01,127185,127185,127185.000000000000
-5823818600,AI/ML Researcher - Hybrid,Anson Mccade,it-jobs,,full_time,Eastern England,2026-08-01 11:30:15+00,2026-08-01,2026-08-01,65000,65000,65000.000000000000
-5823818591,eDV Data Scientist,NSD,it-jobs,,full_time,North West England,2026-08-01 11:30:15+00,2026-08-01,2026-08-01,95000,95000,95000.000000000000
-5823780123,Retail Data & Insights Manager,Cotswold Outdoor Group Ltd,it-jobs,permanent,,South West England,2026-08-01 11:13:17+00,2026-08-01,2026-08-01,40000,40000,40000.000000000000
-5823777673,Lead Engineer - Full Stack,Hackajob Ltd,it-jobs,permanent,,North West England,2026-08-01 11:12:08+00,2026-08-01,2026-08-01,95000,95000,95000.000000000000
-5824239628,Insights Analyst,Local Pensions Partnership,it-jobs,,full_time,North West England,2026-08-01 16:51:22+00,2026-08-01,2026-08-01,40000,40000,40000.000000000000
-5823818845,Senior Analytics Engineer,Tech4 Ltd,it-jobs,,full_time,South East England,2026-08-01 11:30:27+00,2026-08-01,2026-08-01,60000,65000,62500.000000000000
-5823818759,MS SQL Database Administrator,The Alternative Parcels Co Ltd,it-jobs,,full_time,West Midlands,2026-08-01 11:30:24+00,2026-08-01,2026-08-01,45000,60000,52500.000000000000
-5823818749,Business Intelligence Officer,Aspen Wolf  Ltd,it-jobs,,full_time,North East England,2026-08-01 11:30:23+00,2026-08-01,2026-08-01,29350,29350,29350.000000000000
-5823818623,Business Intelligence Analyst,Individual Restaurants,it-jobs,,full_time,North West England,2026-08-01 11:30:16+00,2026-08-01,2026-08-01,67000,107000,87000.000000000000
-5823818536,Data Architect,Hays,it-jobs,,full_time,North West England,2026-08-01 11:30:14+00,2026-08-01,2026-08-01,60000,60000,60000.000000000000
-5823818496,Solutions Architect,DGH Recruitment,it-jobs,,full_time,London,2026-08-01 11:30:14+00,2026-08-01,2026-08-01,90000,90000,90000.000000000000
-5823782186,Category Specialist,AWE Plc,it-jobs,permanent,,South East England,2026-08-01 11:14:30+00,2026-08-01,2026-08-01,45000,45000,45000.000000000000
 5823780620,Senior Analytics Engineer,Tech 4,it-jobs,permanent,,South East England,2026-08-01 11:13:38+00,2026-08-01,2026-08-01,65000,65000,65000.000000000000
 5822949201,Microsoft 365 Specialist,Axel Johnson International,it-jobs,,,Yorkshire And The Humber,2026-08-01 00:51:23+00,2026-08-01,2026-08-01,45000,45000,45000.000000000000
-5822943527,SQL Developer,Sammons Recruitment Ltd,it-jobs,,,South East England,2026-08-01 00:49:12+00,2026-08-01,2026-08-01,75000,75000,75000.000000000000
-5822880428,Insights Analyst,Local Pensions Partnership,it-jobs,permanent,full_time,North West England,2026-07-31 22:59:58+00,2026-08-01,2026-08-01,36000,40000,38000.000000000000
-5822736062,Senior Sponsorship Sales Manager,Lipton Media,sales-jobs,permanent,full_time,London,2026-07-31 22:38:35+00,2026-08-01,2026-08-01,48000,55000,51500.000000000000
-5822672136,Senior Sponsorship Sales Manager,Lipton Media,sales-jobs,,full_time,London,2026-07-31 21:11:50+00,2026-08-01,2026-08-01,48000,55000,51500.000000000000
-5822594189,Commercial Admin Support,WE Talent,admin-jobs,permanent,full_time,,2026-07-31 19:06:21+00,2026-08-01,2026-08-01,35000,35000,35000.000000000000
-5822591228,"Junior Manager, Business Intelligence",Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,London,2026-07-31 18:39:21+00,2026-08-01,2026-08-01,46000,46000,46000.000000000000
-5822590623,Senior Electrical Contracts Manager,Axis CLC,trade-construction-jobs,permanent,full_time,London,2026-07-31 18:38:42+00,2026-08-01,2026-08-01,65000,75000,70000.000000000000
-5822590529,Strategic Lead - Business Intelligence & Insight (Team Manager),Opus People Solutions,it-jobs,permanent,full_time,West Midlands,2026-07-31 18:38:38+00,2026-08-01,2026-08-01,61000,65000,63000.000000000000
-5822589804,Revenue Growth Manager,TMR Group Ltd,sales-jobs,permanent,full_time,West Midlands,2026-07-31 18:37:52+00,2026-08-01,2026-08-01,60000,65000,62500.000000000000
-5822589081,"Associate Director, Business Intelligence",Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,London,2026-07-31 18:37:09+00,2026-08-01,2026-08-01,60000,60000,60000.000000000000
-5822587509,Pricing & Margin Manager,Trinity Personnel,accounting-finance-jobs,permanent,full_time,West Midlands,2026-07-31 18:36:19+00,2026-08-01,2026-08-01,35000,45000,40000.000000000000
-5822587215,Finance Systems Manager,Addition,it-jobs,permanent,full_time,Eastern England,2026-07-31 18:36:09+00,2026-08-01,2026-08-01,85000,105000,95000.000000000000
-5822582360,Strategic Performance Assistant,University of Leicester,it-jobs,,full_time,East Midlands,2026-07-31 18:00:45+00,2026-08-01,2026-08-01,26707,26707,26707.000000000000
-5822580597,Deputy Head of MIS,Bath College,it-jobs,permanent,full_time,South West England,2026-07-31 17:53:01+00,2026-08-01,2026-08-01,47523,51765,49644.000000000000
-5822571825,Head of Advertising Analytics,Microsoft,consultancy-jobs,contract,full_time,London,2026-07-31 17:47:28+00,2026-08-01,2026-08-01,100400,200500,150450.000000000000
-5822565125,Business Intelligence Analyst,Thurrock Council,admin-jobs,permanent,full_time,Eastern England,2026-07-31 17:43:06+00,2026-08-01,2026-08-01,45624,52038,48831.000000000000
-5822553061,Commercial Admin Support,WE Talent,admin-jobs,,full_time,London,2026-07-31 17:14:34+00,2026-08-01,2026-08-01,35000,35000,35000.000000000000
-5822542383,Senior Data Engineer,IMT Resourcing Solutions,it-jobs,,full_time,South West England,2026-07-31 16:58:46+00,2026-07-31,2026-08-01,75000,85000,80000.000000000000
-5822395483,Divisional Business Manager - Education,Find Recruitment Group LTD,teaching-jobs,,full_time,,2026-07-31 15:05:32+00,2026-07-31,2026-08-01,60000,68000,64000.000000000000
-5822374538,Independent Financial Advisor,Capio Recruitment Financial Planning,accounting-finance-jobs,permanent,full_time,Eastern England,2026-07-31 14:40:03+00,2026-07-31,2026-08-01,60000,80000,70000.000000000000
-5822373639,Senior Power BI Developer/FP&A,JMF Associates,it-jobs,permanent,full_time,London,2026-07-31 14:38:08+00,2026-07-31,2026-08-01,75000,85000,80000.000000000000
-5822257742,Sales / Technical Business Development Manager Chemical,Atom Scientific Recruitment Ltd,sales-jobs,permanent,full_time,East Midlands,2026-07-31 11:15:32+00,2026-08-01,2026-08-01,55000,55000,55000.000000000000
-5822255566,SAP Data Warehouse Analyst,FBI &TMT,it-jobs,permanent,,Eastern England,2026-07-31 11:14:03+00,2026-08-01,2026-08-01,60000,60000,60000.000000000000
-5822250962,Sales / Technical Business Development Manager Chemical,Atom Scientific Recruitment Ltd,sales-jobs,permanent,full_time,Scotland,2026-07-31 11:12:38+00,2026-07-31,2026-08-01,55000,55000,55000.000000000000
 5822250840,Market Signals Intelligence Lead,Datatech Analytics,consultancy-jobs,permanent,,London,2026-07-31 11:12:36+00,2026-07-31,2026-08-01,70000,70000,70000.000000000000
 5822248087,Senior Data Insights & Performance Officer,Salt,it-jobs,contract,,South East England,2026-07-31 11:11:51+00,2026-07-31,2026-08-01,117000,117000,117000.000000000000
 5822247719,Public affairs & Comms Officer - Full or Part time,Daniel-Scott Recruitment Ltd,part-time-jobs,permanent,part_time,West Midlands,2026-07-31 11:11:42+00,2026-07-31,2026-08-01,35000,35000,35000.000000000000
@@ -436,3 +325,152 @@ id,title,company,category,contract_type,contract_time,region,created,first_seen,
 5824464478,Management Accountant,Reed,accounting-finance-jobs,permanent,full_time,London,2026-08-01 18:38:40+00,2026-08-01,2026-08-01,55000,60000,57500.000000000000
 5824444108,Trust Management Accountant,Cornwall Council,accounting-finance-jobs,contract,full_time,South West England,2026-08-01 18:29:26+00,2026-08-01,2026-08-01,55000,60000,57500.000000000000
 5824442002,Associate Influencer Marketing Manager,Digital Extremes,pr-advertising-marketing-jobs,,,London,2026-08-01 18:28:53+00,2026-08-01,2026-08-01,70000,85000,77500.000000000000
+5822323081,DSO Engineer,National Grid,it-jobs,,,London,2026-07-31 12:28:18+00,2026-07-31,2026-08-02,79923,79923,79923.000000000000
+5824975560,Compliance Analyst,Pertemps Managed Solutions,it-jobs,contract,full_time,Wales,2026-08-02 02:18:59+00,2026-08-02,2026-08-02,40643,40643,40643.000000000000
+5824379439,HR Data Analyst,Homeserve,hr-jobs,,,West Midlands,2026-08-01 18:18:57+00,2026-08-02,2026-08-02,33101,40000,36550.500000000000
+5822591452,Graduate Data Analyst,Consula Group LTD,graduate-jobs,permanent,full_time,London,2026-07-31 18:39:36+00,2026-08-01,2026-08-02,45000,45000,45000.000000000000
+5824031000,Data Analyst Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,Yorkshire And The Humber,2026-08-01 15:14:34+00,2026-08-02,2026-08-02,65000,65000,65000.000000000000
+5824020406,Data Business Analyst,Futures,it-jobs,,,Yorkshire And The Humber,2026-08-01 15:09:49+00,2026-08-01,2026-08-02,47000,52000,49500.000000000000
+5823818979,Senior AI Engineer,CarFinance 247,it-jobs,,full_time,North West England,2026-08-01 11:30:28+00,2026-08-01,2026-08-02,80000,80000,80000.000000000000
+5823818864,Property Business Insight Analyst,Orbit Group,it-jobs,,full_time,West Midlands,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,38238,46736,42487.000000000000
+5823818880,IT Data Analyst Intern,Eligo Recruitment Ltd,it-jobs,contract,,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,25000,25000,25000.000000000000
+5823818540,Data Analyst,Paterson Simons & Co  Ltd.,it-jobs,,full_time,Scotland,2026-08-01 11:30:15+00,2026-08-01,2026-08-02,28000,28000,28000.000000000000
+5823818602,Data Science Manager,WRK DIGITAL LTD,it-jobs,permanent,full_time,Yorkshire And The Humber,2026-08-01 11:30:15+00,2026-08-01,2026-08-02,70000,70000,70000.000000000000
+5823756497,Data Business Analyst,Permanent Futures Limited,it-jobs,,full_time,Yorkshire And The Humber,2026-08-01 11:04:30+00,2026-08-01,2026-08-02,47000,52000,49500.000000000000
+5823713300,Customer Service Centre Advisor - Preston,Places For People,customer-services-jobs,,,North West England,2026-08-01 10:10:43+00,2026-08-01,2026-08-02,27030,27030,27030.000000000000
+5823025597,Property Business Insight Analyst,Orbit Group,it-jobs,,,West Midlands,2026-08-01 01:27:32+00,2026-08-01,2026-08-02,38238,46736,42487.000000000000
+5822950866,HR Data Analyst,HomeServe,hr-jobs,,,West Midlands,2026-08-01 00:51:43+00,2026-08-01,2026-08-02,40000,40000,40000.000000000000
+5822919325,SC Cleared Data Engineer - INSIDE IR35,Pearson Carter,it-jobs,contract,full_time,South East England,2026-08-01 00:17:04+00,2026-08-01,2026-08-02,78000,260000,169000.000000000000
+5822628736,Data Analyst,HAYS Specialist Recruitment,it-jobs,permanent,,Northern Ireland,2026-07-31 20:30:56+00,2026-08-01,2026-08-02,40000,40000,40000.000000000000
+5822594517,IT Data Analyst Intern / Student Placement Year,Eligo Recruitment,it-jobs,permanent,full_time,East Midlands,2026-07-31 19:08:17+00,2026-08-01,2026-08-02,25000,25000,25000.000000000000
+5822594255,Data Analyst,Hays Specialist Recruitment Limited,it-jobs,permanent,,South East England,2026-07-31 19:06:54+00,2026-08-01,2026-08-02,130000,130000,130000.000000000000
+5822594087,Data Analyst,Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,South East England,2026-07-31 19:05:55+00,2026-08-01,2026-08-02,50000,55000,52500.000000000000
+5822592518,Graduate Data Analyst - Remote - Data / Analytics - Must have a STEM degree - Strong Excel,Hawke Search,graduate-jobs,permanent,full_time,London,2026-07-31 18:40:42+00,2026-08-01,2026-08-02,25000,30000,27500.000000000000
+5822591993,Graduate Recruitment Consultant,Virtus Talent,graduate-jobs,permanent,full_time,South West England,2026-07-31 18:40:10+00,2026-08-01,2026-08-02,27000,30000,28500.000000000000
+5822591752,Data Analyst,Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,London,2026-07-31 18:39:54+00,2026-08-01,2026-08-02,45000,45000,45000.000000000000
+5822591631,Senior Data Analyst,Harnham - Data & Analytics Recruitment,pr-advertising-marketing-jobs,permanent,full_time,London,2026-07-31 18:39:47+00,2026-08-01,2026-08-02,40000,50000,45000.000000000000
+5822590906,Data Administrator,We Do Group,admin-jobs,contract,,South East England,2026-07-31 18:39:01+00,2026-08-01,2026-08-02,28000,34000,31000.000000000000
+5822590694,Graduate Data Analyst,Consula Group LTD,graduate-jobs,permanent,full_time,North West England,2026-07-31 18:38:48+00,2026-08-01,2026-08-02,45000,45000,45000.000000000000
+5822590194,Data Analyst,Catalyst,it-jobs,permanent,full_time,North East England,2026-07-31 18:38:16+00,2026-08-01,2026-08-02,50000,80000,65000.000000000000
+5822589077,Compliance Analyst,Pertemps SSDC - DDT,it-jobs,permanent,,Wales,2026-07-31 18:37:09+00,2026-08-01,2026-08-02,40643,40643,40643.000000000000
+5822589021,Data Analyst,Harnham - Data & Analytics Recruitment,consultancy-jobs,permanent,full_time,London,2026-07-31 18:37:07+00,2026-08-01,2026-08-02,50000,54000,52000.000000000000
+5822588610,Product Data Analyst,one2one Recruitment,it-jobs,permanent,full_time,East Midlands,2026-07-31 18:36:54+00,2026-08-01,2026-08-02,33000,41000,37000.000000000000
+5822588059,Finance Data Analyst,Michael Page Finance,accounting-finance-jobs,permanent,full_time,North West England,2026-07-31 18:36:36+00,2026-08-01,2026-08-02,29000,34000,31500.000000000000
+5822542429,Property Business Insight Analyst,Orbit Group,it-jobs,,full_time,West Midlands,2026-07-31 16:58:54+00,2026-07-31,2026-08-02,38238,46736,42487.000000000000
+5822400614,Key Account Manager - Tesco Retail Media,Hackajob Ltd,sales-jobs,permanent,,London,2026-07-31 15:13:57+00,2026-08-01,2026-08-02,100000,100000,100000.000000000000
+5822390651,IT Data Analyst Intern / Student Placement Year,Eligo Recruitment Ltd,it-jobs,contract,full_time,East Midlands,2026-07-31 15:00:20+00,2026-07-31,2026-08-02,25000,25000,25000.000000000000
+5822255736,Senior Data Analyst,WRK DIGITAL LTD,it-jobs,permanent,,West Midlands,2026-07-31 11:14:09+00,2026-08-01,2026-08-02,60000,60000,60000.000000000000
+5822255606,Lead Data Engineer,Elevate Recruitment.,it-jobs,permanent,,London,2026-07-31 11:14:05+00,2026-07-31,2026-08-02,50000,50000,50000.000000000000
+5822255564,HR Data Analyst,Liberty Recruitment Group,it-jobs,permanent,,South East England,2026-07-31 11:14:03+00,2026-08-01,2026-08-02,40000,40000,40000.000000000000
+5822248097,Compliance Analyst,Pertemps SSDC DDT,it-jobs,contract,,Wales,2026-07-31 11:11:51+00,2026-07-31,2026-08-02,40643,40643,40643.000000000000
+5822242613,Senior Data Information Architect,Hackajob Ltd,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 11:09:47+00,2026-07-31,2026-08-02,75000,75000,75000.000000000000
+5822109155,Senior Data Information Architect,Hackajob Ltd,it-jobs,,,Yorkshire And The Humber,2026-07-31 08:44:09+00,2026-07-31,2026-08-02,75000,75000,75000.000000000000
+5821891822,Finance Data Analyst,Northern Ireland Housing Executive,admin-jobs,contract,,Northern Ireland,2026-07-31 03:20:56+00,2026-07-31,2026-08-02,30000,30000,30000.000000000000
+5821875523,Data Analyst Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,South West England,2026-07-31 03:10:28+00,2026-07-31,2026-08-02,65000,65000,65000.000000000000
+5821873736,Trainee Data Engineer Programme No Experience Required,NEWTO TRAINING LIMITED,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 03:10:08+00,2026-07-31,2026-08-02,40000,40000,40000.000000000000
+5821873726,Trainee Data Engineer Programme No Experience Required,NEWTO TRAINING LIMITED,it-jobs,permanent,,Scotland,2026-07-31 03:10:07+00,2026-07-31,2026-08-02,40000,40000,40000.000000000000
+5821727302,Data Analyst - FTC,Bright Purple Resourcing,it-jobs,contract,,Scotland,2026-07-31 00:53:02+00,2026-07-31,2026-08-02,45000,45000,45000.000000000000
+5821722641,Data Analyst Apprentice,Back 2 Work,it-jobs,,,North West England,2026-07-31 00:51:56+00,2026-07-31,2026-08-02,24000,24000,24000.000000000000
+5821655243,Senior Financial Reporting Analyst,CV Screen Ltd,accounting-finance-jobs,permanent,full_time,South East England,2026-07-30 23:12:36+00,2026-07-31,2026-08-02,80000,80000,80000.000000000000
+5821653586,AI Engineer,CarFinance 247,it-jobs,permanent,,North West England,2026-07-30 23:10:42+00,2026-08-02,2026-08-02,60000,60000,60000.000000000000
+5821653503,Data Science Manager,WRK DIGITAL LTD,it-jobs,permanent,,West Midlands,2026-07-30 23:10:35+00,2026-07-31,2026-08-02,70000,70000,70000.000000000000
+5824480940,Principal Product Manager,Anson Mccade,it-jobs,permanent,,Scotland,2026-08-01 19:17:22+00,2026-08-02,2026-08-02,90000,90000,90000.000000000000
+5824480927,Principal Product Manager,Anson Mccade,it-jobs,permanent,,North East England,2026-08-01 19:17:21+00,2026-08-02,2026-08-02,90000,90000,90000.000000000000
+5824430444,AWS Data Architect - Home-Based,ISR Recruitment,it-jobs,contract,,North West England,2026-08-01 18:26:17+00,2026-08-01,2026-08-02,156000,169000,162500.000000000000
+5824391040,Senior Data Engineer,Evergreen Finance,it-jobs,,full_time,,2026-08-01 18:20:55+00,2026-08-01,2026-08-02,70000,80000,75000.000000000000
+5824440764,Insight Analyst,Electric Twin,it-jobs,,full_time,London,2026-08-01 18:28:30+00,2026-08-01,2026-08-02,35000,45000,40000.000000000000
+5824353789,Digital Trading Insight Manager,John Lewis,it-jobs,permanent,full_time,London,2026-08-01 18:07:50+00,2026-08-01,2026-08-02,62000,115000,88500.000000000000
+5823818941,Senior AI Engineer,Hackajob Ltd,it-jobs,,full_time,North West England,2026-08-01 11:30:28+00,2026-08-01,2026-08-02,90000,90000,90000.000000000000
+5823818934,Lead AI Engineer,Hackajob Ltd,it-jobs,,full_time,North West England,2026-08-01 11:30:28+00,2026-08-01,2026-08-02,90000,90000,90000.000000000000
+5823818857,Data Engineer,Third Nexus Group Limited,it-jobs,permanent,full_time,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,75000,100000,87500.000000000000
+5823818883,Principal AI Engineer,Hackajob Ltd,it-jobs,,full_time,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,100000,100000,100000.000000000000
+5823818870,Senior Data Engineer,IMT Resourcing Solutions,it-jobs,,full_time,South West England,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,75000,85000,80000.000000000000
+5823818761,Contract Data Engineer - SC Cleared,Fruition Group,it-jobs,contract,,Yorkshire And The Humber,2026-08-01 11:30:24+00,2026-08-01,2026-08-02,130000,143000,136500.000000000000
+5823818667,Senior Product Data Scientist,Datatech Analytics,it-jobs,,full_time,South East England,2026-08-01 11:30:19+00,2026-08-01,2026-08-02,90000,90000,90000.000000000000
+5823818551,Product Owner Innovation,BAE Systems,it-jobs,,full_time,South East England,2026-08-01 11:30:15+00,2026-08-01,2026-08-02,40000,70000,55000.000000000000
+5823818535,Global IT Data Engineer,Boston Consulting Group,it-jobs,,full_time,London,2026-08-01 11:30:14+00,2026-08-01,2026-08-02,105000,130000,117500.000000000000
+5823777526,FP&A AI Transformation Manager,Pratap Partnership Ltd,it-jobs,permanent,,Yorkshire And The Humber,2026-08-01 11:12:06+00,2026-08-01,2026-08-02,100000,100000,100000.000000000000
+5823387945,Senior Data Modeller,Specsavers,it-jobs,permanent,full_time,East Midlands,2026-08-01 06:40:45+00,2026-08-01,2026-08-02,75000,75000,75000.000000000000
+5823387314,Senior Data Modeller,Specsavers,it-jobs,permanent,full_time,South East England,2026-08-01 06:38:55+00,2026-08-01,2026-08-02,75000,75000,75000.000000000000
+5823382848,Senior Data Modeller,Specsavers,it-jobs,permanent,full_time,Scotland,2026-08-01 06:37:11+00,2026-08-01,2026-08-02,75000,75000,75000.000000000000
+5822943789,Head of Data & Analytics,Curtis Recruitment,it-jobs,,,Eastern England,2026-08-01 00:49:56+00,2026-08-01,2026-08-02,100000,100000,100000.000000000000
+5822943556,Data Platform Engineer,Hays,it-jobs,permanent,,South East England,2026-08-01 00:49:12+00,2026-08-02,2026-08-02,91000,91000,91000.000000000000
+5822670497,Senior / Principal Insurance Ontologist,Galaxi Consulting,it-jobs,permanent,full_time,London,2026-07-31 21:10:33+00,2026-08-01,2026-08-02,90000,100000,95000.000000000000
+5822646616,Cyber Security Engineer,Square One Resources,it-jobs,contract,full_time,Yorkshire And The Humber,2026-07-31 20:46:10+00,2026-08-01,2026-08-02,117000,130000,123500.000000000000
+5822628749,Manufacturing Data Engineer,McElroy Resourcing,engineering-jobs,,,Northern Ireland,2026-07-31 20:30:56+00,2026-08-01,2026-08-02,45000,45000,45000.000000000000
+5822594888,Senior Data Engineer,IMT Resourcing,it-jobs,permanent,full_time,South West England,2026-07-31 19:09:16+00,2026-08-01,2026-08-02,75000,85000,80000.000000000000
+5824444223,Partnerships Manager,Monzo,sales-jobs,,,London,2026-08-01 18:29:27+00,2026-08-01,2026-08-02,86000,115000,100500.000000000000
+5824394175,Marketplace Operations Lead,Wheely,it-jobs,,full_time,London,2026-08-01 18:21:19+00,2026-08-01,2026-08-02,65000,90000,77500.000000000000
+5824354080,"Clinical Trial Associate (Associate, Rater Services)",Cogstate,scientific-qa-jobs,,,,2026-08-01 18:08:14+00,2026-08-02,2026-08-02,50000,55000,52500.000000000000
+5824029769,AI Engineer Placement Programme No Experience Needed,IT Online Learning,it-jobs,permanent,,Yorkshire And The Humber,2026-08-01 15:13:59+00,2026-08-01,2026-08-02,75000,75000,75000.000000000000
+5823818940,Lead Engineer - Workplace Technology and Automation,Hackajob Ltd,it-jobs,,full_time,Yorkshire And The Humber,2026-08-01 11:30:28+00,2026-08-01,2026-08-02,95000,95000,95000.000000000000
+5823818820,Data Scientist - London,Information Tech Consultants,it-jobs,,full_time,London,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,35000,45000,40000.000000000000
+5823818795,Lead Engineer - Full Stack,Hackajob Ltd,it-jobs,,full_time,North West England,2026-08-01 11:30:26+00,2026-08-01,2026-08-02,95000,95000,95000.000000000000
+5823818784,Infrastructure Support Engineer,Peregrine,it-jobs,permanent,full_time,London,2026-08-01 11:30:25+00,2026-08-01,2026-08-02,127185,127185,127185.000000000000
+5823818600,AI/ML Researcher - Hybrid,Anson Mccade,it-jobs,,full_time,Eastern England,2026-08-01 11:30:15+00,2026-08-01,2026-08-02,65000,65000,65000.000000000000
+5823818591,eDV Data Scientist,NSD,it-jobs,,full_time,North West England,2026-08-01 11:30:15+00,2026-08-01,2026-08-02,95000,95000,95000.000000000000
+5823780123,Retail Data & Insights Manager,Cotswold Outdoor Group Ltd,it-jobs,permanent,,South West England,2026-08-01 11:13:17+00,2026-08-01,2026-08-02,40000,40000,40000.000000000000
+5823777673,Lead Engineer - Full Stack,Hackajob Ltd,it-jobs,permanent,,North West England,2026-08-01 11:12:08+00,2026-08-01,2026-08-02,95000,95000,95000.000000000000
+5824790830,Senior Analytics Engineer,Tech 4,it-jobs,permanent,,South East England,2026-08-01 23:18:30+00,2026-08-02,2026-08-02,65000,65000,65000.000000000000
+5824239628,Insights Analyst,Local Pensions Partnership,it-jobs,,full_time,North West England,2026-08-01 16:51:22+00,2026-08-01,2026-08-02,40000,40000,40000.000000000000
+5823818845,Senior Analytics Engineer,Tech4 Ltd,it-jobs,,full_time,South East England,2026-08-01 11:30:27+00,2026-08-01,2026-08-02,60000,65000,62500.000000000000
+5823818759,MS SQL Database Administrator,The Alternative Parcels Co Ltd,it-jobs,,full_time,West Midlands,2026-08-01 11:30:24+00,2026-08-01,2026-08-02,45000,60000,52500.000000000000
+5823818749,Business Intelligence Officer,Aspen Wolf  Ltd,it-jobs,,full_time,North East England,2026-08-01 11:30:23+00,2026-08-01,2026-08-02,29350,29350,29350.000000000000
+5823818623,Business Intelligence Analyst,Individual Restaurants,it-jobs,,full_time,North West England,2026-08-01 11:30:16+00,2026-08-01,2026-08-02,67000,107000,87000.000000000000
+5823818536,Data Architect,Hays,it-jobs,,full_time,North West England,2026-08-01 11:30:14+00,2026-08-01,2026-08-02,60000,60000,60000.000000000000
+5823818496,Solutions Architect,DGH Recruitment,it-jobs,,full_time,London,2026-08-01 11:30:14+00,2026-08-01,2026-08-02,90000,90000,90000.000000000000
+5823782186,Category Specialist,AWE Plc,it-jobs,permanent,,South East England,2026-08-01 11:14:30+00,2026-08-01,2026-08-02,45000,45000,45000.000000000000
+5822943527,SQL Developer,Sammons Recruitment Ltd,it-jobs,,,South East England,2026-08-01 00:49:12+00,2026-08-01,2026-08-02,75000,75000,75000.000000000000
+5822880428,Insights Analyst,Local Pensions Partnership,it-jobs,permanent,full_time,North West England,2026-07-31 22:59:58+00,2026-08-01,2026-08-02,36000,40000,38000.000000000000
+5822736062,Senior Sponsorship Sales Manager,Lipton Media,sales-jobs,permanent,full_time,London,2026-07-31 22:38:35+00,2026-08-01,2026-08-02,48000,55000,51500.000000000000
+5822672136,Senior Sponsorship Sales Manager,Lipton Media,sales-jobs,,full_time,London,2026-07-31 21:11:50+00,2026-08-01,2026-08-02,48000,55000,51500.000000000000
+5822594189,Commercial Admin Support,WE Talent,admin-jobs,permanent,full_time,,2026-07-31 19:06:21+00,2026-08-01,2026-08-02,35000,35000,35000.000000000000
+5822591228,"Junior Manager, Business Intelligence",Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,London,2026-07-31 18:39:21+00,2026-08-01,2026-08-02,46000,46000,46000.000000000000
+5822590623,Senior Electrical Contracts Manager,Axis CLC,trade-construction-jobs,permanent,full_time,London,2026-07-31 18:38:42+00,2026-08-01,2026-08-02,65000,75000,70000.000000000000
+5822590529,Strategic Lead - Business Intelligence & Insight (Team Manager),Opus People Solutions,it-jobs,permanent,full_time,West Midlands,2026-07-31 18:38:38+00,2026-08-01,2026-08-02,61000,65000,63000.000000000000
+5822589804,Revenue Growth Manager,TMR Group Ltd,sales-jobs,permanent,full_time,West Midlands,2026-07-31 18:37:52+00,2026-08-01,2026-08-02,60000,65000,62500.000000000000
+5822589081,"Associate Director, Business Intelligence",Harnham - Data & Analytics Recruitment,it-jobs,permanent,full_time,London,2026-07-31 18:37:09+00,2026-08-01,2026-08-02,60000,60000,60000.000000000000
+5822587509,Pricing & Margin Manager,Trinity Personnel,accounting-finance-jobs,permanent,full_time,West Midlands,2026-07-31 18:36:19+00,2026-08-01,2026-08-02,35000,45000,40000.000000000000
+5822587215,Finance Systems Manager,Addition,it-jobs,permanent,full_time,Eastern England,2026-07-31 18:36:09+00,2026-08-01,2026-08-02,85000,105000,95000.000000000000
+5822582360,Strategic Performance Assistant,University of Leicester,it-jobs,,full_time,East Midlands,2026-07-31 18:00:45+00,2026-08-01,2026-08-02,26707,26707,26707.000000000000
+5822581677,Power BI Reporting Analyst,Cancer Research UK,it-jobs,contract,full_time,London,2026-07-31 17:58:57+00,2026-08-02,2026-08-02,35000,40000,37500.000000000000
+5822580597,Deputy Head of MIS,Bath College,it-jobs,permanent,full_time,South West England,2026-07-31 17:53:01+00,2026-08-01,2026-08-02,47523,51765,49644.000000000000
+5822571825,Head of Advertising Analytics,Microsoft,consultancy-jobs,contract,full_time,London,2026-07-31 17:47:28+00,2026-08-01,2026-08-02,100400,200500,150450.000000000000
+5822565125,Business Intelligence Analyst,Thurrock Council,admin-jobs,permanent,full_time,Eastern England,2026-07-31 17:43:06+00,2026-08-01,2026-08-02,45624,52038,48831.000000000000
+5822553061,Commercial Admin Support,WE Talent,admin-jobs,,full_time,London,2026-07-31 17:14:34+00,2026-08-01,2026-08-02,35000,35000,35000.000000000000
+5822542383,Senior Data Engineer,IMT Resourcing Solutions,it-jobs,,full_time,South West England,2026-07-31 16:58:46+00,2026-07-31,2026-08-02,75000,85000,80000.000000000000
+5822399401,Microsoft 365 Specialist,Axel Johnson International,it-jobs,permanent,,Yorkshire And The Humber,2026-07-31 15:12:06+00,2026-07-31,2026-08-02,45000,45000,45000.000000000000
+5822395483,Divisional Business Manager - Education,Find Recruitment Group LTD,teaching-jobs,,full_time,,2026-07-31 15:05:32+00,2026-07-31,2026-08-02,60000,68000,64000.000000000000
+5822374538,Independent Financial Advisor,Capio Recruitment Financial Planning,accounting-finance-jobs,permanent,full_time,Eastern England,2026-07-31 14:40:03+00,2026-07-31,2026-08-02,60000,80000,70000.000000000000
+5822373639,Senior Power BI Developer/FP&A,JMF Associates,it-jobs,permanent,full_time,London,2026-07-31 14:38:08+00,2026-07-31,2026-08-02,75000,85000,80000.000000000000
+5822257742,Sales / Technical Business Development Manager Chemical,Atom Scientific Recruitment Ltd,sales-jobs,permanent,full_time,East Midlands,2026-07-31 11:15:32+00,2026-08-01,2026-08-02,55000,55000,55000.000000000000
+5822255566,SAP Data Warehouse Analyst,FBI &TMT,it-jobs,permanent,,Eastern England,2026-07-31 11:14:03+00,2026-08-01,2026-08-02,60000,60000,60000.000000000000
+5822250962,Sales / Technical Business Development Manager Chemical,Atom Scientific Recruitment Ltd,sales-jobs,permanent,full_time,Scotland,2026-07-31 11:12:38+00,2026-07-31,2026-08-02,55000,55000,55000.000000000000
+5825442293,CI Engineer,Futures,engineering-jobs,,,Yorkshire And The Humber,2026-08-02 09:16:32+00,2026-08-02,2026-08-02,38000,46000,42000.000000000000
+5825442290,Engineering Manager,Futures,engineering-jobs,,,Yorkshire And The Humber,2026-08-02 09:16:32+00,2026-08-02,2026-08-02,53000,60000,56500.000000000000
+5825416971,Specialist Occupational Therapist,Outcomes First Group,healthcare-nursing-jobs,permanent,,North West England,2026-08-02 08:46:05+00,2026-08-02,2026-08-02,50000,50000,50000.000000000000
+5825416468,Production Manager (FMCG),Ernest Gordon Recruitment Limited,manufacturing-jobs,permanent,full_time,,2026-08-02 08:45:29+00,2026-08-02,2026-08-02,50000,60000,55000.000000000000
+5825379622,CI Engineer,Permanent Futures Limited,engineering-jobs,,full_time,Yorkshire And The Humber,2026-08-02 07:12:36+00,2026-08-02,2026-08-02,38000,46000,42000.000000000000
+5825374697,Data Architect,Big Red Recruitment Midlands Limited,it-jobs,,full_time,London,2026-08-02 07:02:12+00,2026-08-02,2026-08-02,65000,70000,67500.000000000000
+5825297850,Assistant Manager | The Understudy | National Theatre,Levy UK,hospitality-catering-jobs,contract,full_time,London,2026-08-02 05:26:24+00,2026-08-02,2026-08-02,39280,39280,39280.000000000000
+5825238305,Associate Finance Business Partner,Birmingham Children's Trust,accounting-finance-jobs,,,West Midlands,2026-08-02 03:57:57+00,2026-08-02,2026-08-02,35412,44075,39743.500000000000
+5825238275,Finance Business Partner,Birmingham Children's Trust,accounting-finance-jobs,,,West Midlands,2026-08-02 03:57:56+00,2026-08-02,2026-08-02,45091,53460,49275.500000000000
+5825114615,Controls Engineer (Siemens/Rockwell),Ernest Gordon Recruitment,engineering-jobs,permanent,,Scotland,2026-08-02 03:18:00+00,2026-08-02,2026-08-02,60000,60000,60000.000000000000
+5825112195,Assistant Buyer,Cotswold Outdoor Group Ltd,retail-jobs,permanent,,South West England,2026-08-02 03:17:01+00,2026-08-02,2026-08-02,28000,28000,28000.000000000000
+5825112185,Commercial Manager - 12 month FTC,Hackajob Ltd,legal-jobs,permanent,,Northern Ireland,2026-08-02 03:17:00+00,2026-08-02,2026-08-02,90000,90000,90000.000000000000
+5825110076,Retail Store Planner,DFS Furniture Ltd,retail-jobs,permanent,,Yorkshire And The Humber,2026-08-02 03:16:01+00,2026-08-02,2026-08-02,35000,35000,35000.000000000000
+5825110078,Call Monitoring Analyst,Credico Marketing UK Ltd,sales-jobs,permanent,,North West England,2026-08-02 03:16:01+00,2026-08-02,2026-08-02,26000,26000,26000.000000000000
+5825109580,Ecomm EMEA Finance Support Associate,GARMIN  LIMITED,accounting-finance-jobs,permanent,,South East England,2026-08-02 03:15:46+00,2026-08-02,2026-08-02,28000,28000,28000.000000000000
+5825103492,Maintenance Engineer,Stirling Warrington,engineering-jobs,permanent,,East Midlands,2026-08-02 03:14:22+00,2026-08-02,2026-08-02,55000,55000,55000.000000000000
+5825102775,Broadband Manager,Money Expert,sales-jobs,permanent,full_time,North West England,2026-08-02 03:14:14+00,2026-08-02,2026-08-02,45000,45000,45000.000000000000
+5825102762,Broadband Sales Team Manager,Money Expert,sales-jobs,permanent,full_time,North West England,2026-08-02 03:14:14+00,2026-08-02,2026-08-02,45000,45000,45000.000000000000
+5825102761,Senior Test Development Engineer,Renishaw PLC,engineering-jobs,permanent,,South West England,2026-08-02 03:14:14+00,2026-08-02,2026-08-02,55000,55000,55000.000000000000
+5825102732,Broadband Telesales Manager,Money Expert,sales-jobs,permanent,full_time,North West England,2026-08-02 03:14:13+00,2026-08-02,2026-08-02,45000,45000,45000.000000000000
+5824976111,Datacore Specialist (Engineer),Source Group International,it-jobs,contract,full_time,London,2026-08-02 02:19:01+00,2026-08-02,2026-08-02,117000,143000,130000.000000000000
+5824975866,English Teacher,Education Network,teaching-jobs,contract,full_time,West Midlands,2026-08-02 02:19:00+00,2026-08-02,2026-08-02,45500,65000,55250.000000000000
+5824975895,Senior Planner – Water & Wastewater Infrastructure,Breagh Recruitment,engineering-jobs,permanent,full_time,,2026-08-02 02:19:00+00,2026-08-02,2026-08-02,90000,90000,90000.000000000000
+5824975761,PBS Practitioner,Salutem,healthcare-nursing-jobs,permanent,full_time,South East England,2026-08-02 02:19:00+00,2026-08-02,2026-08-02,35000,35000,35000.000000000000
+5824975732,Audit Senior,Puro Associates,accounting-finance-jobs,permanent,full_time,West Midlands,2026-08-02 02:18:59+00,2026-08-02,2026-08-02,40000,45000,42500.000000000000
+5824975567,Operations Lead - Education,Service Care Solutions,teaching-jobs,permanent,full_time,South East England,2026-08-02 02:18:59+00,2026-08-02,2026-08-02,60000,65000,62500.000000000000
+5824975581,Divisional Business Manager - Education,Service Care Solutions,teaching-jobs,permanent,full_time,London,2026-08-02 02:18:59+00,2026-08-02,2026-08-02,60000,68000,64000.000000000000
+5824965162,Special Projects Fire Safety Advisor,Vox Network Consultants Limited,trade-construction-jobs,contract,full_time,London,2026-08-02 02:18:09+00,2026-08-02,2026-08-02,130000,130000,130000.000000000000
