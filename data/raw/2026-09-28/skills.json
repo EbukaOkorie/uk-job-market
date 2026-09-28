@@ -1,0 +1,157 @@
+{
+  "collected_at": "2026-09-28T12:47:24.302245+00:00",
+  "api_calls": 70,
+  "source": "Adzuna API",
+  "skills": [
+    {
+      "term": "python",
+      "live_count": 11712,
+      "new_count": 244
+    },
+    {
+      "term": "sql",
+      "live_count": 7952,
+      "new_count": 239
+    },
+    {
+      "term": "java",
+      "live_count": 4006,
+      "new_count": 46
+    },
+    {
+      "term": "javascript",
+      "live_count": 2748,
+      "new_count": 58
+    },
+    {
+      "term": "typescript",
+      "live_count": 2444,
+      "new_count": 53
+    },
+    {
+      "term": "scala",
+      "live_count": 341,
+      "new_count": 8
+    },
+    {
+      "term": "c#",
+      "live_count": 2230,
+      "new_count": 98
+    },
+    {
+      "term": "power bi",
+      "live_count": 3815,
+      "new_count": 105
+    },
+    {
+      "term": "tableau",
+      "live_count": 1374,
+      "new_count": 33
+    },
+    {
+      "term": "looker",
+      "live_count": 772,
+      "new_count": 19
+    },
+    {
+      "term": "qlik",
+      "live_count": 124,
+      "new_count": 3
+    },
+    {
+      "term": "microsoft excel",
+      "live_count": 4817,
+      "new_count": 130
+    },
+    {
+      "term": "snowflake",
+      "live_count": 1184,
+      "new_count": 19
+    },
+    {
+      "term": "databricks",
+      "live_count": 1246,
+      "new_count": 17
+    },
+    {
+      "term": "bigquery",
+      "live_count": 461,
+      "new_count": 11
+    },
+    {
+      "term": "redshift",
+      "live_count": 242,
+      "new_count": 3
+    },
+    {
+      "term": "postgresql",
+      "live_count": 1043,
+      "new_count": 14
+    },
+    {
+      "term": "dbt",
+      "live_count": 622,
+      "new_count": 20
+    },
+    {
+      "term": "azure",
+      "live_count": 13238,
+      "new_count": 227
+    },
+    {
+      "term": "aws",
+      "live_count": 8337,
+      "new_count": 195
+    },
+    {
+      "term": "gcp",
+      "live_count": 3233,
+      "new_count": 91
+    },
+    {
+      "term": "kubernetes",
+      "live_count": 3622,
+      "new_count": 80
+    },
+    {
+      "term": "docker",
+      "live_count": 2870,
+      "new_count": 60
+    },
+    {
+      "term": "terraform",
+      "live_count": 2790,
+      "new_count": 56
+    },
+    {
+      "term": "machine learning",
+      "live_count": 4422,
+      "new_count": 111
+    },
+    {
+      "term": "data engineering",
+      "live_count": 2615,
+      "new_count": 41
+    },
+    {
+      "term": "etl",
+      "live_count": 1402,
+      "new_count": 25
+    },
+    {
+      "term": "airflow",
+      "live_count": 623,
+      "new_count": 8
+    },
+    {
+      "term": "apache spark",
+      "live_count": 162,
+      "new_count": 3
+    },
+    {
+      "term": "spss",
+      "live_count": 67,
+      "new_count": 6
+    }
+  ]
+}
