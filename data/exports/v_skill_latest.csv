@@ -1,30 +1,30 @@
 term,skill_group,live_count,new_count,rank_live,rank_new
-azure,cloud,14430,288,1,3
-python,languages,11784,320,2,1
-aws,cloud,8055,228,3,4
-sql,languages,7972,291,4,2
-microsoft excel,bi,4625,160,5,5
-machine learning,analytics,4396,109,6,7
-power bi,bi,3854,136,7,6
-java,languages,3714,81,8,10
-kubernetes,cloud,3628,86,9,9
-gcp,cloud,3005,72,10,13
-docker,cloud,2808,74,11,12
-data engineering,analytics,2779,68,12,14
-terraform,cloud,2758,51,13,16
-javascript,languages,2567,75,14,11
-typescript,languages,2374,61,15,15
-c#,languages,2235,96,16,8
-databricks,warehouse,1428,38,17,19
-etl,analytics,1384,40,18,18
-snowflake,warehouse,1205,32,19,20
-tableau,bi,1171,42,20,17
-postgresql,warehouse,1037,26,21,21
-looker,bi,752,25,22,22
-airflow,analytics,674,14,23,24
-dbt,warehouse,608,16,24,23
-bigquery,warehouse,464,11,25,27
-scala,languages,367,13,26,26
-redshift,warehouse,223,5,27,28
-qlik,bi,136,14,28,24
-spss,analytics,69,0,29,29
+azure,cloud,13785,398,1,1
+python,languages,11638,316,2,3
+aws,cloud,7968,254,3,4
+sql,languages,7859,359,4,2
+microsoft excel,bi,4567,249,5,5
+machine learning,analytics,4341,94,6,11
+power bi,bi,3848,191,7,6
+java,languages,3712,88,8,14
+kubernetes,cloud,3629,97,9,9
+gcp,cloud,2986,76,10,15
+docker,cloud,2802,93,11,12
+data engineering,analytics,2798,118,12,8
+terraform,cloud,2766,72,13,16
+javascript,languages,2565,95,14,10
+typescript,languages,2381,90,15,13
+c#,languages,2234,142,16,7
+databricks,warehouse,1439,54,17,18
+etl,analytics,1385,60,18,17
+snowflake,warehouse,1200,41,19,20
+tableau,bi,1159,44,20,19
+postgresql,warehouse,1024,34,21,21
+looker,bi,737,18,22,24
+airflow,analytics,691,28,23,22
+dbt,warehouse,613,23,24,23
+bigquery,warehouse,462,10,25,27
+scala,languages,370,16,26,25
+redshift,warehouse,229,9,27,28
+qlik,bi,143,14,28,26
+spss,analytics,68,1,29,29
